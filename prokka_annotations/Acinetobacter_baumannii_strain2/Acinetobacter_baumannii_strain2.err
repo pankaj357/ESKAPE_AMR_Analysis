@@ -1,0 +1,92 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:7 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 7 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:7 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:8 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::7 proteins halid Ivalid IDs.
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_1 (length 316)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_2 (length 95)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_3 (length 180)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_4 (length 87)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_5 (length 87)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_6 (length 100)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_7 (length 550)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 7 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE (length 5644)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::7 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:CDS	hypothetical protein	p1ABAYE:629-1579	OAAIPILC_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:CDS	hypothetical protein	p1ABAYE:1576-1863	OAAIPILC_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:CDS	Secretory immunoglobulin A-binding protein EsiB	p1ABAYE:c2596-2054	OAAIPILC_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:CDS	Antitoxin YefM	p1ABAYE:2851-3114	OAAIPILC_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:CDS	Toxin YoeB	p1ABAYE:3101-3364	OAAIPILC_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:CDS	hypothetical protein	p1ABAYE:c3728-3426	OAAIPILC_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:CDS	hypothetical protein	p1ABAYE:3939-5591	OAAIPILC_00007
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE (length 5644)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE (length 5644)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE (length 5644)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE (length 5644)
+
+DiscRep_ALL:MISSING_PROJECT::8 sequences do not include project.
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE (length 5644)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_1 (length 316)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_2 (length 95)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_3 (length 180)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_4 (length 87)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_5 (length 87)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_6 (length 100)
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE_7 (length 550)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2:p1ABAYE (length 5644)
+

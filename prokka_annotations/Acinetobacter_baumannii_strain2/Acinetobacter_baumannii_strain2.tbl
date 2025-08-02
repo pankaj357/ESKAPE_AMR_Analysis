@@ -1,0 +1,38 @@
+>Feature p1ABAYE
+629	1579	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OAAIPILC_00001
+			product	hypothetical protein
+1576	1863	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OAAIPILC_00002
+			product	hypothetical protein
+2596	2054	CDS
+			gene	esiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H2VDN9
+			locus_tag	OAAIPILC_00003
+			product	Secretory immunoglobulin A-binding protein EsiB
+2851	3114	CDS
+			db_xref	COG:COG2161
+			gene	yefM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69346
+			locus_tag	OAAIPILC_00004
+			product	Antitoxin YefM
+3101	3364	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG4115
+			gene	yoeB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69348
+			locus_tag	OAAIPILC_00005
+			product	Toxin YoeB
+3728	3426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OAAIPILC_00006
+			product	hypothetical protein
+3939	5591	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OAAIPILC_00007
+			product	hypothetical protein

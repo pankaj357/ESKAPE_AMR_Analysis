@@ -1,0 +1,2524 @@
+FT   variation       300
+FT                   /colour=4
+FT                   /gene=group_433
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       318
+FT                   /colour=4
+FT                   /gene=group_483
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       489
+FT                   /colour=4
+FT                   /gene=group_381
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       338
+FT                   /colour=4
+FT                   /gene=group_601
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       224
+FT                   /colour=4
+FT                   /gene=group_618
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       558
+FT                   /colour=4
+FT                   /gene=lukDv_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       2
+FT                   /colour=4
+FT                   /gene=bacC
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       556
+FT                   /colour=4
+FT                   /gene=group_187
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       352
+FT                   /colour=4
+FT                   /gene=group_740
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       251
+FT                   /colour=4
+FT                   /gene=lpl2_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       578
+FT                   /colour=4
+FT                   /gene=group_354
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       94
+FT                   /colour=4
+FT                   /gene=group_626
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       483
+FT                   /colour=4
+FT                   /gene=group_361
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       137
+FT                   /colour=4
+FT                   /gene=essG_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       327
+FT                   /colour=4
+FT                   /gene=group_686
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       320
+FT                   /colour=4
+FT                   /gene=group_485
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       570
+FT                   /colour=4
+FT                   /gene=smc_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       206
+FT                   /colour=4
+FT                   /gene=group_648
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       324
+FT                   /colour=4
+FT                   /gene=lpl2_5
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       22
+FT                   /colour=4
+FT                   /gene=yecD
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       185
+FT                   /colour=4
+FT                   /gene=group_318
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       577
+FT                   /colour=4
+FT                   /gene=group_355
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       488
+FT                   /colour=4
+FT                   /gene=group_366
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       219
+FT                   /colour=4
+FT                   /gene=group_178
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       540
+FT                   /colour=4
+FT                   /gene=group_203
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       562
+FT                   /colour=4
+FT                   /gene=group_324
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       448
+FT                   /colour=4
+FT                   /gene=group_419
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       83
+FT                   /colour=4
+FT                   /gene=flr
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       123
+FT                   /colour=4
+FT                   /gene=tarM
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       466
+FT                   /colour=4
+FT                   /gene=group_767
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       65
+FT                   /colour=4
+FT                   /gene=group_493
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       93
+FT                   /colour=4
+FT                   /gene=group_623
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       367
+FT                   /colour=4
+FT                   /gene=essG_4
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       111
+FT                   /colour=4
+FT                   /gene=sbi
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       280
+FT                   /colour=4
+FT                   /gene=group_271
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       402
+FT                   /colour=4
+FT                   /gene=group_772
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       527
+FT                   /colour=4
+FT                   /gene=group_518
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       69
+FT                   /colour=4
+FT                   /gene=group_237
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       108
+FT                   /colour=4
+FT                   /gene=group_632
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       622
+FT                   /colour=4
+FT                   /gene=group_534
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       51
+FT                   /colour=4
+FT                   /gene=group_603
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       424
+FT                   /colour=4
+FT                   /gene=group_716
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       312
+FT                   /colour=4
+FT                   /gene=epiD
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       536
+FT                   /colour=4
+FT                   /gene=group_184
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       199
+FT                   /colour=4
+FT                   /gene=group_441
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       204
+FT                   /colour=4
+FT                   /gene=norG
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       32
+FT                   /colour=4
+FT                   /gene=group_455
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       27
+FT                   /colour=4
+FT                   /gene=group_270
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       155
+FT                   /colour=4
+FT                   /gene=group_452
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       49
+FT                   /colour=4
+FT                   /gene=group_463
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       496
+FT                   /colour=4
+FT                   /gene=group_374
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       337
+FT                   /colour=4
+FT                   /gene=group_250
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       580
+FT                   /colour=4
+FT                   /gene=group_352
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       573
+FT                   /colour=4
+FT                   /gene=group_335
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       420
+FT                   /colour=4
+FT                   /gene=group_720
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       592
+FT                   /colour=4
+FT                   /gene=group_340
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       552
+FT                   /colour=4
+FT                   /gene=group_191
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       521
+FT                   /colour=4
+FT                   /gene=group_509
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       91
+FT                   /colour=4
+FT                   /gene=sspA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       136
+FT                   /colour=4
+FT                   /gene=essG_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       458
+FT                   /colour=4
+FT                   /gene=group_417
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       220
+FT                   /colour=4
+FT                   /gene=group_2602
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       564
+FT                   /colour=4
+FT                   /gene=group_326
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       265
+FT                   /colour=4
+FT                   /gene=essG_7
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       104
+FT                   /colour=4
+FT                   /gene=group_647
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       377
+FT                   /colour=4
+FT                   /gene=group_673
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       141
+FT                   /colour=4
+FT                   /gene=group_752
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       5
+FT                   /colour=4
+FT                   /gene=rnhC
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       169
+FT                   /colour=4
+FT                   /gene=group_711
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       291
+FT                   /colour=4
+FT                   /gene=group_581
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       46
+FT                   /colour=4
+FT                   /gene=group_313
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       57
+FT                   /colour=4
+FT                   /gene=group_489
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       360
+FT                   /colour=4
+FT                   /gene=group_231
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       514
+FT                   /colour=4
+FT                   /gene=group_503
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       336
+FT                   /colour=4
+FT                   /gene=group_249
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       92
+FT                   /colour=4
+FT                   /gene=group_248
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       615
+FT                   /colour=4
+FT                   /gene=group_541
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       447
+FT                   /colour=4
+FT                   /gene=group_420
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       37
+FT                   /colour=4
+FT                   /gene=sdrE
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       126
+FT                   /colour=4
+FT                   /gene=group_643
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       618
+FT                   /colour=4
+FT                   /gene=group_538
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       17
+FT                   /colour=4
+FT                   /gene=splE
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       113
+FT                   /colour=4
+FT                   /gene=entE
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       29
+FT                   /colour=4
+FT                   /gene=group_587
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       304
+FT                   /colour=4
+FT                   /gene=group_391
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       96
+FT                   /colour=4
+FT                   /gene=ebh
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       54
+FT                   /colour=4
+FT                   /gene=group_621
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       440
+FT                   /colour=4
+FT                   /gene=group_293
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       611
+FT                   /colour=4
+FT                   /gene=group_545
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       149
+FT                   /colour=4
+FT                   /gene=group_428
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       39
+FT                   /colour=4
+FT                   /gene=ssl1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       473
+FT                   /colour=4
+FT                   /gene=hin_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       208
+FT                   /colour=4
+FT                   /gene=group_478
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       20
+FT                   /colour=4
+FT                   /gene=group_490
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       294
+FT                   /colour=4
+FT                   /gene=group_439
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       248
+FT                   /colour=4
+FT                   /gene=group_466
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       579
+FT                   /colour=4
+FT                   /gene=group_353
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       74
+FT                   /colour=4
+FT                   /gene=group_24
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       269
+FT                   /colour=4
+FT                   /gene=entS
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       415
+FT                   /colour=4
+FT                   /gene=group_725
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       498
+FT                   /colour=4
+FT                   /gene=group_372
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       131
+FT                   /colour=4
+FT                   /gene=group_245
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       315
+FT                   /colour=4
+FT                   /gene=group_488
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       326
+FT                   /colour=4
+FT                   /gene=group_689
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       429
+FT                   /colour=4
+FT                   /gene=group_283
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       310
+FT                   /colour=4
+FT                   /gene=nisB
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       487
+FT                   /colour=4
+FT                   /gene=group_365
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       446
+FT                   /colour=4
+FT                   /gene=group_421
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       3
+FT                   /colour=4
+FT                   /gene=group_472
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       225
+FT                   /colour=4
+FT                   /gene=group_619
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       145
+FT                   /colour=4
+FT                   /gene=group_589
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       56
+FT                   /colour=4
+FT                   /gene=group_592
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       230
+FT                   /colour=4
+FT                   /gene=recD2_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       239
+FT                   /colour=4
+FT                   /gene=sarT
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       77
+FT                   /colour=4
+FT                   /gene=sirC
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       471
+FT                   /colour=4
+FT                   /gene=group_173
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       271
+FT                   /colour=4
+FT                   /gene=group_210
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       541
+FT                   /colour=4
+FT                   /gene=group_202
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       84
+FT                   /colour=4
+FT                   /gene=group_9
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       309
+FT                   /colour=4
+FT                   /gene=gdmA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       545
+FT                   /colour=4
+FT                   /gene=group_198
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       213
+FT                   /colour=4
+FT                   /gene=group_635
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       608
+FT                   /colour=4
+FT                   /gene=group_548
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       138
+FT                   /colour=4
+FT                   /gene=group_401
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       170
+FT                   /colour=4
+FT                   /gene=group_712
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       583
+FT                   /colour=4
+FT                   /gene=group_349
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       631
+FT                   /colour=4
+FT                   /gene=group_525
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       165
+FT                   /colour=4
+FT                   /gene=clfA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       132
+FT                   /colour=4
+FT                   /gene=group_737
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       55
+FT                   /colour=4
+FT                   /gene=spoVG
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       250
+FT                   /colour=4
+FT                   /gene=group_465
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       270
+FT                   /colour=4
+FT                   /gene=yofA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       238
+FT                   /colour=4
+FT                   /gene=sarU
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       168
+FT                   /colour=4
+FT                   /gene=group_713
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       359
+FT                   /colour=4
+FT                   /gene=group_232
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       362
+FT                   /colour=4
+FT                   /gene=macB
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       567
+FT                   /colour=4
+FT                   /gene=group_329
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       148
+FT                   /colour=4
+FT                   /gene=group_427
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       436
+FT                   /colour=4
+FT                   /gene=group_290
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       42
+FT                   /colour=4
+FT                   /gene=group_212
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       216
+FT                   /colour=4
+FT                   /gene=group_460
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       26
+FT                   /colour=4
+FT                   /gene=group_451
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       114
+FT                   /colour=4
+FT                   /gene=group_680
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       410
+FT                   /colour=4
+FT                   /gene=group_714
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       511
+FT                   /colour=4
+FT                   /gene=group_500
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       539
+FT                   /colour=4
+FT                   /gene=entH
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       36
+FT                   /colour=4
+FT                   /gene=group_559
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       233
+FT                   /colour=4
+FT                   /gene=recD
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       159
+FT                   /colour=4
+FT                   /gene=fnbB
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       21
+FT                   /colour=4
+FT                   /gene=group_476
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       245
+FT                   /colour=4
+FT                   /gene=group_571
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       1
+FT                   /colour=4
+FT                   /gene=srrA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       217
+FT                   /colour=4
+FT                   /gene=group_461
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       272
+FT                   /colour=4
+FT                   /gene=gltR
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       255
+FT                   /colour=4
+FT                   /gene=lpl2_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       317
+FT                   /colour=4
+FT                   /gene=group_482
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       516
+FT                   /colour=4
+FT                   /gene=group_5
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       61
+FT                   /colour=4
+FT                   /gene=group_657
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       501
+FT                   /colour=4
+FT                   /gene=group_369
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       45
+FT                   /colour=4
+FT                   /gene=group_224
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       109
+FT                   /colour=4
+FT                   /gene=group_620
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       53
+FT                   /colour=4
+FT                   /gene=group_656
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       287
+FT                   /colour=4
+FT                   /gene=btuD_3
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       614
+FT                   /colour=4
+FT                   /gene=group_542
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       11
+FT                   /colour=4
+FT                   /gene=sdrC
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       261
+FT                   /colour=4
+FT                   /gene=group_607
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       30
+FT                   /colour=4
+FT                   /gene=group_739
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       144
+FT                   /colour=4
+FT                   /gene=group_590
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       140
+FT                   /colour=4
+FT                   /gene=group_753
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       181
+FT                   /colour=4
+FT                   /gene=group_660
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       135
+FT                   /colour=4
+FT                   /gene=group_730
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       620
+FT                   /colour=4
+FT                   /gene=group_536
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       606
+FT                   /colour=4
+FT                   /gene=group_550
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       157
+FT                   /colour=4
+FT                   /gene=ycjY
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       100
+FT                   /colour=4
+FT                   /gene=group_562
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       34
+FT                   /colour=4
+FT                   /gene=sdrE_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       186
+FT                   /colour=4
+FT                   /gene=group_445
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       229
+FT                   /colour=4
+FT                   /gene=group_359
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       328
+FT                   /colour=4
+FT                   /gene=group_687
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       376
+FT                   /colour=4
+FT                   /gene=essG_8
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       544
+FT                   /colour=4
+FT                   /gene=gloB_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       262
+FT                   /colour=4
+FT                   /gene=group_239
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       67
+FT                   /colour=4
+FT                   /gene=group_473
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       343
+FT                   /colour=4
+FT                   /gene=group_597
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       9
+FT                   /colour=4
+FT                   /gene=group_22
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       212
+FT                   /colour=4
+FT                   /gene=group_634
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       210
+FT                   /colour=4
+FT                   /gene=group_636
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       393
+FT                   /colour=4
+FT                   /gene=group_705
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       288
+FT                   /colour=4
+FT                   /gene=group_584
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       477
+FT                   /colour=4
+FT                   /gene=group_762
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       174
+FT                   /colour=4
+FT                   /gene=group_18
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       407
+FT                   /colour=4
+FT                   /gene=group_174
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       218
+FT                   /colour=4
+FT                   /gene=pre
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       196
+FT                   /colour=4
+FT                   /gene=group_750
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       470
+FT                   /colour=4
+FT                   /gene=group_175
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       607
+FT                   /colour=4
+FT                   /gene=group_549
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       178
+FT                   /colour=4
+FT                   /gene=group_261
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       616
+FT                   /colour=4
+FT                   /gene=group_540
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       66
+FT                   /colour=4
+FT                   /gene=group_16
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       278
+FT                   /colour=4
+FT                   /gene=group_214
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       388
+FT                   /colour=4
+FT                   /gene=group_703
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       500
+FT                   /colour=4
+FT                   /gene=group_370
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       535
+FT                   /colour=4
+FT                   /gene=ugpQ
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       533
+FT                   /colour=4
+FT                   /gene=group_181
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       469
+FT                   /colour=4
+FT                   /gene=group_2601
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       494
+FT                   /colour=4
+FT                   /gene=group_376
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       295
+FT                   /colour=4
+FT                   /gene=group_438
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       134
+FT                   /colour=4
+FT                   /gene=group_731
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       333
+FT                   /colour=4
+FT                   /gene=group_253
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       115
+FT                   /colour=4
+FT                   /gene=group_679
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       452
+FT                   /colour=4
+FT                   /gene=group_411
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       621
+FT                   /colour=4
+FT                   /gene=group_535
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       481
+FT                   /colour=4
+FT                   /gene=group_758
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       602
+FT                   /colour=4
+FT                   /gene=group_554
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       574
+FT                   /colour=4
+FT                   /gene=group_336
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       41
+FT                   /colour=4
+FT                   /gene=group_238
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       551
+FT                   /colour=4
+FT                   /gene=group_192
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       554
+FT                   /colour=4
+FT                   /gene=group_189
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       122
+FT                   /colour=4
+FT                   /gene=group_301
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       151
+FT                   /colour=4
+FT                   /gene=group_681
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       116
+FT                   /colour=4
+FT                   /gene=group_676
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       308
+FT                   /colour=4
+FT                   /gene=group_394
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       582
+FT                   /colour=4
+FT                   /gene=group_350
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       417
+FT                   /colour=4
+FT                   /gene=group_723
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       600
+FT                   /colour=4
+FT                   /gene=group_556
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       609
+FT                   /colour=4
+FT                   /gene=group_547
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       550
+FT                   /colour=4
+FT                   /gene=group_193
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       282
+FT                   /colour=4
+FT                   /gene=group_277
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       97
+FT                   /colour=4
+FT                   /gene=group_14
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       107
+FT                   /colour=4
+FT                   /gene=treA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       584
+FT                   /colour=4
+FT                   /gene=group_348
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       289
+FT                   /colour=4
+FT                   /gene=group_583
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       543
+FT                   /colour=4
+FT                   /gene=group_200
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       103
+FT                   /colour=4
+FT                   /gene=glyA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       596
+FT                   /colour=4
+FT                   /gene=group_522
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       432
+FT                   /colour=4
+FT                   /gene=group_286
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       605
+FT                   /colour=4
+FT                   /gene=group_551
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       19
+FT                   /colour=4
+FT                   /gene=group_312
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       370
+FT                   /colour=4
+FT                   /gene=essG_6
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       522
+FT                   /colour=4
+FT                   /gene=group_510
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       400
+FT                   /colour=4
+FT                   /gene=group_774
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       8
+FT                   /colour=4
+FT                   /gene=kdpA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       504
+FT                   /colour=4
+FT                   /gene=group_367
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       234
+FT                   /colour=4
+FT                   /gene=group_220
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       529
+FT                   /colour=4
+FT                   /gene=group_516
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       389
+FT                   /colour=4
+FT                   /gene=group_704
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       499
+FT                   /colour=4
+FT                   /gene=group_371
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       202
+FT                   /colour=4
+FT                   /gene=group_653
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       260
+FT                   /colour=4
+FT                   /gene=group_608
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       368
+FT                   /colour=4
+FT                   /gene=group_665
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       462
+FT                   /colour=4
+FT                   /gene=group_756
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       426
+FT                   /colour=4
+FT                   /gene=group_280
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       430
+FT                   /colour=4
+FT                   /gene=group_284
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       509
+FT                   /colour=4
+FT                   /gene=group_498
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       613
+FT                   /colour=4
+FT                   /gene=group_543
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       86
+FT                   /colour=4
+FT                   /gene=ssbA_3
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       557
+FT                   /colour=4
+FT                   /gene=mecR1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       264
+FT                   /colour=4
+FT                   /gene=group_241
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       87
+FT                   /colour=4
+FT                   /gene=group_311
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       441
+FT                   /colour=4
+FT                   /gene=group_292
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       461
+FT                   /colour=4
+FT                   /gene=group_755
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       207
+FT                   /colour=4
+FT                   /gene=pcp
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       517
+FT                   /colour=4
+FT                   /gene=group_505
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       357
+FT                   /colour=4
+FT                   /gene=group_234
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       23
+FT                   /colour=4
+FT                   /gene=group_683
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       563
+FT                   /colour=4
+FT                   /gene=group_325
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       381
+FT                   /colour=4
+FT                   /gene=group_696
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       387
+FT                   /colour=4
+FT                   /gene=group_702
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       455
+FT                   /colour=4
+FT                   /gene=group_414
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       431
+FT                   /colour=4
+FT                   /gene=group_285
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       351
+FT                   /colour=4
+FT                   /gene=lexA_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       76
+FT                   /colour=4
+FT                   /gene=group_279
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       127
+FT                   /colour=4
+FT                   /gene=group_642
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       623
+FT                   /colour=4
+FT                   /gene=group_533
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       526
+FT                   /colour=4
+FT                   /gene=group_514
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       241
+FT                   /colour=4
+FT                   /gene=group_627
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       571
+FT                   /colour=4
+FT                   /gene=group_333
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       510
+FT                   /colour=4
+FT                   /gene=group_499
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       553
+FT                   /colour=4
+FT                   /gene=group_190
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       397
+FT                   /colour=4
+FT                   /gene=group_775
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       102
+FT                   /colour=4
+FT                   /gene=group_685
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       585
+FT                   /colour=4
+FT                   /gene=group_347
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       395
+FT                   /colour=4
+FT                   /gene=group_777
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       406
+FT                   /colour=4
+FT                   /gene=blaR1-2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       171
+FT                   /colour=4
+FT                   /gene=group_575
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       290
+FT                   /colour=4
+FT                   /gene=group_582
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       354
+FT                   /colour=4
+FT                   /gene=group_742
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       88
+FT                   /colour=4
+FT                   /gene=group_586
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       502
+FT                   /colour=4
+FT                   /gene=group_3
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       7
+FT                   /colour=4
+FT                   /gene=group_448
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       222
+FT                   /colour=4
+FT                   /gene=group_616
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       421
+FT                   /colour=4
+FT                   /gene=group_719
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       401
+FT                   /colour=4
+FT                   /gene=group_773
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       413
+FT                   /colour=4
+FT                   /gene=group_727
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       173
+FT                   /colour=4
+FT                   /gene=group_573
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       479
+FT                   /colour=4
+FT                   /gene=group_760
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       409
+FT                   /colour=4
+FT                   /gene=blaZ_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       24
+FT                   /colour=4
+FT                   /gene=group_572
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       486
+FT                   /colour=4
+FT                   /gene=group_364
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       575
+FT                   /colour=4
+FT                   /gene=group_337
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       117
+FT                   /colour=4
+FT                   /gene=selX
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       434
+FT                   /colour=4
+FT                   /gene=group_288
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       258
+FT                   /colour=4
+FT                   /gene=group_610
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       119
+FT                   /colour=4
+FT                   /gene=group_431
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       237
+FT                   /colour=4
+FT                   /gene=group_223
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       490
+FT                   /colour=4
+FT                   /gene=group_380
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       25
+FT                   /colour=4
+FT                   /gene=group_567
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       79
+FT                   /colour=4
+FT                   /gene=group_615
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       366
+FT                   /colour=4
+FT                   /gene=group_225
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       242
+FT                   /colour=4
+FT                   /gene=ebhA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       374
+FT                   /colour=4
+FT                   /gene=group_671
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       547
+FT                   /colour=4
+FT                   /gene=group_196
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       451
+FT                   /colour=4
+FT                   /gene=group_410
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       560
+FT                   /colour=4
+FT                   /gene=group_322
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       344
+FT                   /colour=4
+FT                   /gene=group_598
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       530
+FT                   /colour=4
+FT                   /gene=group_515
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       200
+FT                   /colour=4
+FT                   /gene=group_442
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       595
+FT                   /colour=4
+FT                   /gene=group_521
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       98
+FT                   /colour=4
+FT                   /gene=smc_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       414
+FT                   /colour=4
+FT                   /gene=group_726
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       276
+FT                   /colour=4
+FT                   /gene=group_216
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       617
+FT                   /colour=4
+FT                   /gene=group_539
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       59
+FT                   /colour=4
+FT                   /gene=group_457
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       412
+FT                   /colour=4
+FT                   /gene=group_728
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       81
+FT                   /colour=4
+FT                   /gene=group_393
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       385
+FT                   /colour=4
+FT                   /gene=group_700
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       593
+FT                   /colour=4
+FT                   /gene=group_339
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       197
+FT                   /colour=4
+FT                   /gene=group_751
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       182
+FT                   /colour=4
+FT                   /gene=group_661
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       110
+FT                   /colour=4
+FT                   /gene=group_480
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       179
+FT                   /colour=4
+FT                   /gene=ssl5_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       292
+FT                   /colour=4
+FT                   /gene=group_579
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       390
+FT                   /colour=4
+FT                   /gene=group_708
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       531
+FT                   /colour=4
+FT                   /gene=group_179
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       465
+FT                   /colour=4
+FT                   /gene=cadC_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       75
+FT                   /colour=4
+FT                   /gene=group_456
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       506
+FT                   /colour=4
+FT                   /gene=group_495
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       625
+FT                   /colour=4
+FT                   /gene=group_531
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       40
+FT                   /colour=4
+FT                   /gene=group_678
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       342
+FT                   /colour=4
+FT                   /gene=group_596
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       568
+FT                   /colour=4
+FT                   /gene=group_330
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       416
+FT                   /colour=4
+FT                   /gene=clpP_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       158
+FT                   /colour=4
+FT                   /gene=group_645
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       152
+FT                   /colour=4
+FT                   /gene=group_613
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       195
+FT                   /colour=4
+FT                   /gene=agrB
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       587
+FT                   /colour=4
+FT                   /gene=group_345
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       403
+FT                   /colour=4
+FT                   /gene=group_771
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       72
+FT                   /colour=4
+FT                   /gene=deoC1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       118
+FT                   /colour=4
+FT                   /gene=group_432
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       283
+FT                   /colour=4
+FT                   /gene=group_276
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       14
+FT                   /colour=4
+FT                   /gene=group_625
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       247
+FT                   /colour=4
+FT                   /gene=group_467
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       330
+FT                   /colour=4
+FT                   /gene=group_256
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       350
+FT                   /colour=4
+FT                   /gene=dinG_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       257
+FT                   /colour=4
+FT                   /gene=group_611
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       335
+FT                   /colour=4
+FT                   /gene=group_251
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       482
+FT                   /colour=4
+FT                   /gene=group_360
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       187
+FT                   /colour=4
+FT                   /gene=group_444
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       378
+FT                   /colour=4
+FT                   /gene=group_672
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       275
+FT                   /colour=4
+FT                   /gene=group_217
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       460
+FT                   /colour=4
+FT                   /gene=group_754
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       457
+FT                   /colour=4
+FT                   /gene=group_416
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       347
+FT                   /colour=4
+FT                   /gene=group_748
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       10
+FT                   /colour=4
+FT                   /gene=arsC
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       523
+FT                   /colour=4
+FT                   /gene=group_511
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       478
+FT                   /colour=4
+FT                   /gene=group_761
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       528
+FT                   /colour=4
+FT                   /gene=group_517
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       480
+FT                   /colour=4
+FT                   /gene=group_759
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       380
+FT                   /colour=4
+FT                   /gene=group_695
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       129
+FT                   /colour=4
+FT                   /gene=group_169
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       154
+FT                   /colour=4
+FT                   /gene=group_453
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       130
+FT                   /colour=4
+FT                   /gene=group_246
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       472
+FT                   /colour=4
+FT                   /gene=bin3_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       82
+FT                   /colour=4
+FT                   /gene=group_519
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       150
+FT                   /colour=4
+FT                   /gene=group_682
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       285
+FT                   /colour=4
+FT                   /gene=group_274
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       183
+FT                   /colour=4
+FT                   /gene=group_319
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       433
+FT                   /colour=4
+FT                   /gene=group_287
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       386
+FT                   /colour=4
+FT                   /gene=group_701
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       194
+FT                   /colour=4
+FT                   /gene=group_606
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       456
+FT                   /colour=4
+FT                   /gene=group_415
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       546
+FT                   /colour=4
+FT                   /gene=group_197
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       90
+FT                   /colour=4
+FT                   /gene=group_385
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       189
+FT                   /colour=4
+FT                   /gene=group_565
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       379
+FT                   /colour=4
+FT                   /gene=group_694
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       627
+FT                   /colour=4
+FT                   /gene=group_529
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       341
+FT                   /colour=4
+FT                   /gene=group_595
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       293
+FT                   /colour=4
+FT                   /gene=group_580
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       422
+FT                   /colour=4
+FT                   /gene=group_718
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       305
+FT                   /colour=4
+FT                   /gene=group_390
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       363
+FT                   /colour=4
+FT                   /gene=group_228
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       121
+FT                   /colour=4
+FT                   /gene=group_491
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       353
+FT                   /colour=4
+FT                   /gene=group_741
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       146
+FT                   /colour=4
+FT                   /gene=group_407
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       284
+FT                   /colour=4
+FT                   /gene=group_275
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       588
+FT                   /colour=4
+FT                   /gene=group_344
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       38
+FT                   /colour=4
+FT                   /gene=group_430
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       314
+FT                   /colour=4
+FT                   /gene=bcrA_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       296
+FT                   /colour=4
+FT                   /gene=group_437
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       177
+FT                   /colour=4
+FT                   /gene=group_259
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       316
+FT                   /colour=4
+FT                   /gene=group_487
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       369
+FT                   /colour=4
+FT                   /gene=essG_5
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       89
+FT                   /colour=4
+FT                   /gene=group_622
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       323
+FT                   /colour=4
+FT                   /gene=group_692
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       172
+FT                   /colour=4
+FT                   /gene=group_574
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       467
+FT                   /colour=4
+FT                   /gene=group_766
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       125
+FT                   /colour=4
+FT                   /gene=group_735
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       297
+FT                   /colour=4
+FT                   /gene=group_436
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       259
+FT                   /colour=4
+FT                   /gene=group_609
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       166
+FT                   /colour=4
+FT                   /gene=group_298
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       201
+FT                   /colour=4
+FT                   /gene=group_654
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       163
+FT                   /colour=4
+FT                   /gene=group_578
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       306
+FT                   /colour=4
+FT                   /gene=group_389
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       249
+FT                   /colour=4
+FT                   /gene=group_464
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       106
+FT                   /colour=4
+FT                   /gene=arcC1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       71
+FT                   /colour=4
+FT                   /gene=group_20
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       373
+FT                   /colour=4
+FT                   /gene=group_670
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       520
+FT                   /colour=4
+FT                   /gene=ssbA_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       193
+FT                   /colour=4
+FT                   /gene=group_605
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       235
+FT                   /colour=4
+FT                   /gene=repN
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       254
+FT                   /colour=4
+FT                   /gene=lpl2_3
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       576
+FT                   /colour=4
+FT                   /gene=group_338
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       277
+FT                   /colour=4
+FT                   /gene=group_215
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       268
+FT                   /colour=4
+FT                   /gene=group_206
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       50
+FT                   /colour=4
+FT                   /gene=group_449
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       454
+FT                   /colour=4
+FT                   /gene=group_413
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       566
+FT                   /colour=4
+FT                   /gene=group_328
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       405
+FT                   /colour=4
+FT                   /gene=blaI_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       31
+FT                   /colour=4
+FT                   /gene=group_462
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       244
+FT                   /colour=4
+FT                   /gene=group_570
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       184
+FT                   /colour=4
+FT                   /gene=ribU
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       497
+FT                   /colour=4
+FT                   /gene=group_373
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       279
+FT                   /colour=4
+FT                   /gene=group_213
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       590
+FT                   /colour=4
+FT                   /gene=group_342
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       561
+FT                   /colour=4
+FT                   /gene=group_323
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       33
+FT                   /colour=4
+FT                   /gene=group_631
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       610
+FT                   /colour=4
+FT                   /gene=group_546
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       302
+FT                   /colour=4
+FT                   /gene=group_387
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       128
+FT                   /colour=4
+FT                   /gene=fnbA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       133
+FT                   /colour=4
+FT                   /gene=group_738
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       619
+FT                   /colour=4
+FT                   /gene=group_537
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       16
+FT                   /colour=4
+FT                   /gene=dagK
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       73
+FT                   /colour=4
+FT                   /gene=rplS
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       188
+FT                   /colour=4
+FT                   /gene=group_443
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       439
+FT                   /colour=4
+FT                   /gene=group_294
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       628
+FT                   /colour=4
+FT                   /gene=group_528
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       13
+FT                   /colour=4
+FT                   /gene=group_306
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       392
+FT                   /colour=4
+FT                   /gene=group_706
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       349
+FT                   /colour=4
+FT                   /gene=group_746
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       274
+FT                   /colour=4
+FT                   /gene=group_218
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       99
+FT                   /colour=4
+FT                   /gene=group_475
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       399
+FT                   /colour=4
+FT                   /gene=cadC_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       398
+FT                   /colour=4
+FT                   /gene=group_2544
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       231
+FT                   /colour=4
+FT                   /gene=group_641
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       156
+FT                   /colour=4
+FT                   /gene=MENG
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       68
+FT                   /colour=4
+FT                   /gene=entA_3
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       438
+FT                   /colour=4
+FT                   /gene=entC2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       444
+FT                   /colour=4
+FT                   /gene=group_423
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       63
+FT                   /colour=4
+FT                   /gene=group_651
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       28
+FT                   /colour=4
+FT                   /gene=group_236
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       266
+FT                   /colour=4
+FT                   /gene=group_243
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       70
+FT                   /colour=4
+FT                   /gene=group_257
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       630
+FT                   /colour=4
+FT                   /gene=group_526
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       243
+FT                   /colour=4
+FT                   /gene=group_569
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       591
+FT                   /colour=4
+FT                   /gene=group_341
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       211
+FT                   /colour=4
+FT                   /gene=group_633
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       221
+FT                   /colour=4
+FT                   /gene=group_176
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       594
+FT                   /colour=4
+FT                   /gene=group_520
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       427
+FT                   /colour=4
+FT                   /gene=group_281
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       532
+FT                   /colour=4
+FT                   /gene=group_180
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       256
+FT                   /colour=4
+FT                   /gene=xerD_3
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       301
+FT                   /colour=4
+FT                   /gene=group_386
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       361
+FT                   /colour=4
+FT                   /gene=group_230
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       503
+FT                   /colour=4
+FT                   /gene=group_368
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       442
+FT                   /colour=4
+FT                   /gene=group_291
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       313
+FT                   /colour=4
+FT                   /gene=group_396
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       60
+FT                   /colour=4
+FT                   /gene=group_684
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       161
+FT                   /colour=4
+FT                   /gene=group_471
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       209
+FT                   /colour=4
+FT                   /gene=cna
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       58
+FT                   /colour=4
+FT                   /gene=group_658
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       394
+FT                   /colour=4
+FT                   /gene=group_778
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       223
+FT                   /colour=4
+FT                   /gene=group_617
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       624
+FT                   /colour=4
+FT                   /gene=group_532
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       365
+FT                   /colour=4
+FT                   /gene=group_226
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       205
+FT                   /colour=4
+FT                   /gene=group_649
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       612
+FT                   /colour=4
+FT                   /gene=group_544
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       586
+FT                   /colour=4
+FT                   /gene=group_346
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       175
+FT                   /colour=4
+FT                   /gene=group_732
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       559
+FT                   /colour=4
+FT                   /gene=hlgC_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       565
+FT                   /colour=4
+FT                   /gene=group_327
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       240
+FT                   /colour=4
+FT                   /gene=group_628
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       542
+FT                   /colour=4
+FT                   /gene=group_201
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       299
+FT                   /colour=4
+FT                   /gene=group_434
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       463
+FT                   /colour=4
+FT                   /gene=group_757
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       329
+FT                   /colour=4
+FT                   /gene=group_688
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       348
+FT                   /colour=4
+FT                   /gene=group_747
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       548
+FT                   /colour=4
+FT                   /gene=group_195
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       468
+FT                   /colour=4
+FT                   /gene=group_177
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       589
+FT                   /colour=4
+FT                   /gene=group_343
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       311
+FT                   /colour=4
+FT                   /gene=nisC
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       383
+FT                   /colour=4
+FT                   /gene=group_698
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       423
+FT                   /colour=4
+FT                   /gene=group_717
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       508
+FT                   /colour=4
+FT                   /gene=group_497
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       203
+FT                   /colour=4
+FT                   /gene=group_652
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       346
+FT                   /colour=4
+FT                   /gene=group_600
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       495
+FT                   /colour=4
+FT                   /gene=group_375
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       15
+FT                   /colour=4
+FT                   /gene=group_637
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       404
+FT                   /colour=4
+FT                   /gene=hin_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       273
+FT                   /colour=4
+FT                   /gene=ywqN_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       124
+FT                   /colour=4
+FT                   /gene=group_734
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       95
+FT                   /colour=4
+FT                   /gene=group_450
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       453
+FT                   /colour=4
+FT                   /gene=group_412
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       345
+FT                   /colour=4
+FT                   /gene=group_599
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       505
+FT                   /colour=4
+FT                   /gene=group_494
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       252
+FT                   /colour=4
+FT                   /gene=lpl2_4
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       226
+FT                   /colour=4
+FT                   /gene=group_356
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       160
+FT                   /colour=4
+FT                   /gene=group_470
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       425
+FT                   /colour=4
+FT                   /gene=group_715
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       476
+FT                   /colour=4
+FT                   /gene=blaZ_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       321
+FT                   /colour=4
+FT                   /gene=group_486
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       215
+FT                   /colour=4
+FT                   /gene=group_459
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       236
+FT                   /colour=4
+FT                   /gene=repE
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       176
+FT                   /colour=4
+FT                   /gene=group_733
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       512
+FT                   /colour=4
+FT                   /gene=group_501
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       538
+FT                   /colour=4
+FT                   /gene=group_205
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       325
+FT                   /colour=4
+FT                   /gene=group_690
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       35
+FT                   /colour=4
+FT                   /gene=group_566
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       4
+FT                   /colour=4
+FT                   /gene=group_558
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       232
+FT                   /colour=4
+FT                   /gene=group_640
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       191
+FT                   /colour=4
+FT                   /gene=group_564
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       569
+FT                   /colour=4
+FT                   /gene=group_331
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       549
+FT                   /colour=4
+FT                   /gene=group_194
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       428
+FT                   /colour=4
+FT                   /gene=group_282
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       384
+FT                   /colour=4
+FT                   /gene=group_699
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       411
+FT                   /colour=4
+FT                   /gene=group_729
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       356
+FT                   /colour=4
+FT                   /gene=group_235
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       263
+FT                   /colour=4
+FT                   /gene=group_240
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       435
+FT                   /colour=4
+FT                   /gene=group_289
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       339
+FT                   /colour=4
+FT                   /gene=btuD_5
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       371
+FT                   /colour=4
+FT                   /gene=group_668
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       47
+FT                   /colour=4
+FT                   /gene=group_305
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       629
+FT                   /colour=4
+FT                   /gene=group_527
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       372
+FT                   /colour=4
+FT                   /gene=group_669
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       298
+FT                   /colour=4
+FT                   /gene=group_435
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       443
+FT                   /colour=4
+FT                   /gene=group_424
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       112
+FT                   /colour=4
+FT                   /gene=group_710
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       492
+FT                   /colour=4
+FT                   /gene=group_378
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       120
+FT                   /colour=4
+FT                   /gene=group_492
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       198
+FT                   /colour=4
+FT                   /gene=group_440
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       464
+FT                   /colour=4
+FT                   /gene=group_2543
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       519
+FT                   /colour=4
+FT                   /gene=group_507
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       474
+FT                   /colour=4
+FT                   /gene=blaI_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       286
+FT                   /colour=4
+FT                   /gene=group_273
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       597
+FT                   /colour=4
+FT                   /gene=group_523
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       164
+FT                   /colour=4
+FT                   /gene=group_577
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       153
+FT                   /colour=4
+FT                   /gene=group_614
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       419
+FT                   /colour=4
+FT                   /gene=group_721
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       139
+FT                   /colour=4
+FT                   /gene=group_402
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       484
+FT                   /colour=4
+FT                   /gene=group_362
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       515
+FT                   /colour=4
+FT                   /gene=group_504
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       334
+FT                   /colour=4
+FT                   /gene=group_252
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       18
+FT                   /colour=4
+FT                   /gene=group_588
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       246
+FT                   /colour=4
+FT                   /gene=group_468
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       598
+FT                   /colour=4
+FT                   /gene=group_524
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       253
+FT                   /colour=4
+FT                   /gene=group_265
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       267
+FT                   /colour=4
+FT                   /gene=essG_9
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       358
+FT                   /colour=4
+FT                   /gene=natA
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       78
+FT                   /colour=4
+FT                   /gene=group_247
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       418
+FT                   /colour=4
+FT                   /gene=group_722
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       180
+FT                   /colour=4
+FT                   /gene=group_659
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       147
+FT                   /colour=4
+FT                   /gene=group_406
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       537
+FT                   /colour=4
+FT                   /gene=mecA_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       227
+FT                   /colour=4
+FT                   /gene=group_357
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       167
+FT                   /colour=4
+FT                   /gene=group_299
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       382
+FT                   /colour=4
+FT                   /gene=group_697
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       62
+FT                   /colour=4
+FT                   /gene=group_310
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       475
+FT                   /colour=4
+FT                   /gene=blaR1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       43
+FT                   /colour=4
+FT                   /gene=group_315
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       485
+FT                   /colour=4
+FT                   /gene=group_363
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       105
+FT                   /colour=4
+FT                   /gene=group_314
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       524
+FT                   /colour=4
+FT                   /gene=group_512
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       80
+FT                   /colour=4
+FT                   /gene=group_300
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       518
+FT                   /colour=4
+FT                   /gene=group_506
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       228
+FT                   /colour=4
+FT                   /gene=group_358
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       391
+FT                   /colour=4
+FT                   /gene=group_707
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       332
+FT                   /colour=4
+FT                   /gene=group_254
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       491
+FT                   /colour=4
+FT                   /gene=xerC_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       408
+FT                   /colour=4
+FT                   /gene=bin3_2
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       525
+FT                   /colour=4
+FT                   /gene=group_513
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       437
+FT                   /colour=4
+FT                   /gene=entA_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       319
+FT                   /colour=4
+FT                   /gene=group_484
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       449
+FT                   /colour=4
+FT                   /gene=group_408
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       555
+FT                   /colour=4
+FT                   /gene=group_188
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       142
+FT                   /colour=4
+FT                   /gene=group_426
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       604
+FT                   /colour=4
+FT                   /gene=group_552
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       493
+FT                   /colour=4
+FT                   /gene=group_377
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       581
+FT                   /colour=4
+FT                   /gene=group_351
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       64
+FT                   /colour=4
+FT                   /gene=group_7
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       340
+FT                   /colour=4
+FT                   /gene=group_594
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       214
+FT                   /colour=4
+FT                   /gene=group_458
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       331
+FT                   /colour=4
+FT                   /gene=group_255
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       396
+FT                   /colour=4
+FT                   /gene=group_776
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       192
+FT                   /colour=4
+FT                   /gene=group_604
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       375
+FT                   /colour=4
+FT                   /gene=group_675
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       162
+FT                   /colour=4
+FT                   /gene=group_576
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       355
+FT                   /colour=4
+FT                   /gene=group_743
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       572
+FT                   /colour=4
+FT                   /gene=group_334
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       445
+FT                   /colour=4
+FT                   /gene=group_422
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       459
+FT                   /colour=4
+FT                   /gene=group_418
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       52
+FT                   /colour=4
+FT                   /gene=group_384
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       85
+FT                   /colour=4
+FT                   /gene=argR_1
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       6
+FT                   /colour=4
+FT                   /gene=group_429
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       101
+FT                   /colour=4
+FT                   /gene=group_219
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       626
+FT                   /colour=4
+FT                   /gene=group_530
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       534
+FT                   /colour=4
+FT                   /gene=group_182
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       599
+FT                   /colour=4
+FT                   /gene=group_557
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       307
+FT                   /colour=4
+FT                   /gene=group_388
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       507
+FT                   /colour=4
+FT                   /gene=group_496
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       281
+FT                   /colour=4
+FT                   /gene=group_272
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       603
+FT                   /colour=4
+FT                   /gene=group_553
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       12
+FT                   /colour=4
+FT                   /gene=group_404
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       601
+FT                   /colour=4
+FT                   /gene=group_555
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       513
+FT                   /colour=4
+FT                   /gene=group_502
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       303
+FT                   /colour=4
+FT                   /gene=group_392
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       44
+FT                   /colour=4
+FT                   /gene=group_278
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       322
+FT                   /colour=4
+FT                   /gene=lpl2_6
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       143
+FT                   /colour=4
+FT                   /gene=group_425
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       48
+FT                   /colour=4
+FT                   /gene=pbpB
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       364
+FT                   /colour=4
+FT                   /gene=yknY
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"
+FT   variation       190
+FT                   /colour=4
+FT                   /gene=group_563
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain2"
+FT   variation       450
+FT                   /colour=4
+FT                   /gene=group_409
+FT                   /taxa="Staphylococcus_aureus_subsp_aureus_strain1"

@@ -1,0 +1,19 @@
+=== AMR Gene Analysis Report ===
+
+Date: 2025-07-28 
+Total genes analyzed: 130 
+Total strains analyzed: 12 
+
+Core genes (present in ALL strains): 1 
+Species-specific genes (present in >1 but not all strains): 66 
+Strain-specific genes (unique to single strains): 63 
+
+Top 5 most widespread non-core genes:
+     Gene Present_In Total_Strains         Category
+fosA fosA          6            12 Species-specific
+arsB arsB          4            12 Species-specific
+arsC arsC          4            12 Species-specific
+fieF fieF          4            12 Species-specific
+merA merA          4            12 Species-specific
+
+Strain with most unique genes: Klebsiella_pneumoniae_strain1 

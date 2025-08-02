@@ -1,0 +1,7 @@
+organism: Genus species strain 
+contigs: 174
+bases: 2845480
+CDS: 2589
+rRNA: 5
+tRNA: 58
+tmRNA: 1

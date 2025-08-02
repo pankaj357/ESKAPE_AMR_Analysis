@@ -1,0 +1,127 @@
+[14:42:09] This is prokka 1.14.6
+[14:42:09] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:42:09] Homepage is https://github.com/tseemann/prokka
+[14:42:09] Local time is Mon Jul 28 14:42:09 2025
+[14:42:09] You are admin
+[14:42:09] Operating system is darwin
+[14:42:09] You have BioPerl 1.7.8
+[14:42:09] System has 8 cores.
+[14:42:09] Will use maximum of 8 cores.
+[14:42:09] Annotating as >>> Bacteria <<<
+[14:42:09] Generating locus_tag from 'genomes/Acinetobacter_baumannii_strain2.fna' contents.
+[14:42:09] Setting --locustag OAAIPILC from MD5 8aa2925cf88aece4703969f44f7c743f
+[14:42:09] Creating new output folder: prokka_annotations/Acinetobacter_baumannii_strain2
+[14:42:09] Running: mkdir -p prokka_annotations\/Acinetobacter_baumannii_strain2
+[14:42:09] Using filename prefix: Acinetobacter_baumannii_strain2.XXX
+[14:42:09] Setting HMMER_NCPU=1
+[14:42:09] Writing log to: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.log
+[14:42:09] Command: /Users/admin/miniforge3/envs/prokka-env/bin/prokka --outdir prokka_annotations/Acinetobacter_baumannii_strain2 --prefix Acinetobacter_baumannii_strain2 genomes/Acinetobacter_baumannii_strain2.fna
+[14:42:09] Appending to PATH: /Users/admin/miniforge3/envs/prokka-env/bin
+[14:42:09] Looking for 'aragorn' - found /Users/admin/miniforge3/envs/prokka-env/bin/aragorn
+[14:42:09] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[14:42:09] Looking for 'barrnap' - found /Users/admin/miniforge3/envs/prokka-env/bin/barrnap
+[14:42:09] Determined barrnap version is 000009 from 'barrnap 0.9'
+[14:42:09] Looking for 'blastp' - found /Users/admin/miniforge3/envs/prokka-env/bin/blastp
+[14:42:10] Determined blastp version is 002016 from 'blastp: 2.16.0+'
+[14:42:10] Looking for 'cmpress' - found /Users/admin/miniforge3/envs/prokka-env/bin/cmpress
+[14:42:10] Determined cmpress version is 001001 from '# INFERNAL 1.1.5 (Sep 2023)'
+[14:42:10] Looking for 'cmscan' - found /Users/admin/miniforge3/envs/prokka-env/bin/cmscan
+[14:42:10] Determined cmscan version is 001001 from '# INFERNAL 1.1.5 (Sep 2023)'
+[14:42:10] Looking for 'egrep' - found /usr/bin/egrep
+[14:42:10] Looking for 'find' - found /usr/bin/find
+[14:42:10] Looking for 'grep' - found /usr/bin/grep
+[14:42:10] Looking for 'hmmpress' - found /Users/admin/miniforge3/envs/prokka-env/bin/hmmpress
+[14:42:10] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[14:42:10] Looking for 'hmmscan' - found /Users/admin/miniforge3/envs/prokka-env/bin/hmmscan
+[14:42:10] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[14:42:10] Looking for 'java' - found /usr/bin/java
+[14:42:10] Looking for 'makeblastdb' - found /Users/admin/miniforge3/envs/prokka-env/bin/makeblastdb
+[14:42:10] Determined makeblastdb version is 002016 from 'makeblastdb: 2.16.0+'
+[14:42:10] Looking for 'minced' - found /Users/admin/miniforge3/envs/prokka-env/bin/minced
+[14:42:10] Determined minced version is 004002 from 'minced 0.4.2'
+[14:42:10] Looking for 'parallel' - found /Users/admin/miniforge3/envs/prokka-env/bin/parallel
+[14:42:10] Determined parallel version is 20250622 from 'GNU parallel 20250622'
+[14:42:10] Looking for 'prodigal' - found /Users/admin/miniforge3/envs/prokka-env/bin/prodigal
+[14:42:10] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[14:42:10] Looking for 'prokka-genbank_to_fasta_db' - found /Users/admin/miniforge3/envs/prokka-env/bin/prokka-genbank_to_fasta_db
+[14:42:10] Looking for 'sed' - found /usr/bin/sed
+[14:42:10] Looking for 'tbl2asn' - found /Users/admin/miniforge3/envs/prokka-env/bin/tbl2asn
+[14:42:11] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[14:42:11] Using genetic code table 11.
+[14:42:11] Loading and checking input file: genomes/Acinetobacter_baumannii_strain2.fna
+[14:42:11] Wrote 1 contigs totalling 5644 bp.
+[14:42:11] Predicting tRNAs and tmRNAs
+[14:42:11] Running: aragorn -l -gc11  -w prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.fna
+[14:42:11] Found 0 tRNAs
+[14:42:11] Predicting Ribosomal RNAs
+[14:42:11] Running Barrnap with 8 threads
+[14:42:11] Found 0 rRNAs
+[14:42:11] Skipping ncRNA search, enable with --rfam if desired.
+[14:42:11] Total of 0 tRNA + rRNA features
+[14:42:11] Searching for CRISPR repeats
+[14:42:11] Found 0 CRISPRs
+[14:42:11] Predicting coding sequences
+[14:42:11] Contigs total 5644 bp, so using meta mode
+[14:42:11] Running: prodigal -i prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.fna -c -m -g 11 -p meta -f sco -q
+[14:42:11] Found 7 CDS
+[14:42:11] Connecting features back to sequences
+[14:42:11] Not using genus-specific database. Try --usegenus to enable it.
+[14:42:11] Annotating CDS, please be patient.
+[14:42:11] Will use 8 CPUs for similarity searching.
+[14:42:11] There are still 7 unannotated CDS left (started with 7)
+[14:42:11] Will use blast to search against /Users/admin/miniforge3/envs/prokka-env/db/kingdom/Bacteria/IS with 8 CPUs
+[14:42:11] Running: cat prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.IS\.tmp\.21449\.faa | parallel --gnu --plain -j 8 --block 90 --recstart '>' --pipe blastp -query - -db /Users/admin/miniforge3/envs/prokka-env/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.IS\.tmp\.21449\.blast 2> /dev/null
+[14:42:12] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.IS.tmp.21449.faa
+[14:42:12] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.IS.tmp.21449.blast
+[14:42:12] There are still 7 unannotated CDS left (started with 7)
+[14:42:12] Will use blast to search against /Users/admin/miniforge3/envs/prokka-env/db/kingdom/Bacteria/AMR with 8 CPUs
+[14:42:12] Running: cat prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.AMR\.tmp\.21449\.faa | parallel --gnu --plain -j 8 --block 90 --recstart '>' --pipe blastp -query - -db /Users/admin/miniforge3/envs/prokka-env/db/kingdom/Bacteria/AMR -evalue 1e-300 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.AMR\.tmp\.21449\.blast 2> /dev/null
+[14:42:12] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.AMR.tmp.21449.faa
+[14:42:12] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.AMR.tmp.21449.blast
+[14:42:12] There are still 7 unannotated CDS left (started with 7)
+[14:42:12] Will use blast to search against /Users/admin/miniforge3/envs/prokka-env/db/kingdom/Bacteria/sprot with 8 CPUs
+[14:42:12] Running: cat prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.sprot\.tmp\.21449\.faa | parallel --gnu --plain -j 8 --block 90 --recstart '>' --pipe blastp -query - -db /Users/admin/miniforge3/envs/prokka-env/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.sprot\.tmp\.21449\.blast 2> /dev/null
+[14:42:13] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.sprot.tmp.21449.faa
+[14:42:13] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.sprot.tmp.21449.blast
+[14:42:13] There are still 4 unannotated CDS left (started with 7)
+[14:42:13] Will use hmmer3 to search against /Users/admin/miniforge3/envs/prokka-env/db/hmm/HAMAP.hmm with 8 CPUs
+[14:42:13] Running: cat prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.HAMAP\.hmm\.tmp\.21449\.faa | parallel --gnu --plain -j 8 --block 67 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /Users/admin/miniforge3/envs/prokka-env/db/hmm/HAMAP.hmm /dev/stdin > prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.HAMAP\.hmm\.tmp\.21449\.hmmer3 2> /dev/null
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.HAMAP.hmm.tmp.21449.faa
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.HAMAP.hmm.tmp.21449.hmmer3
+[14:42:14] Labelling remaining 4 proteins as 'hypothetical protein'
+[14:42:14] Found 3 unique /gene codes.
+[14:42:14] Fixed 0 colliding /gene names.
+[14:42:14] Adding /locus_tag identifiers
+[14:42:14] Assigned 7 locus_tags to CDS and RNA features.
+[14:42:14] Writing outputs to prokka_annotations/Acinetobacter_baumannii_strain2/
+[14:42:14] Generating annotation statistics file
+[14:42:14] Generating Genbank and Sequin files
+[14:42:14] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.err -i prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.fsa 2> /dev/null
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/errorsummary.val
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.dr
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.fixedproducts
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.ecn
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.val
+[14:42:14] Repairing broken .GBK output that tbl2asn produces...
+[14:42:14] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.gbf > prokka_annotations\/Acinetobacter_baumannii_strain2\/Acinetobacter_baumannii_strain2\.gbk
+[14:42:14] Deleting unwanted file: prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.gbf
+[14:42:14] Output files:
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.txt
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.gbf-r
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.gff
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.sqn
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.tbl
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.tsv
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.fna
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.err
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.log
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.ffn
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.gbk
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.fsa
+[14:42:14] prokka_annotations/Acinetobacter_baumannii_strain2/Acinetobacter_baumannii_strain2.faa
+[14:42:14] Annotation finished successfully.
+[14:42:14] Walltime used: 0.08 minutes
+[14:42:14] If you use this result please cite the Prokka paper:
+[14:42:14] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[14:42:14] Type 'prokka --citation' for more details.
+[14:42:14] Share and enjoy!

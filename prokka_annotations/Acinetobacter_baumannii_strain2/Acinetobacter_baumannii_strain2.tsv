@@ -1,0 +1,8 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OAAIPILC_00001	CDS	951				hypothetical protein
+OAAIPILC_00002	CDS	288				hypothetical protein
+OAAIPILC_00003	CDS	543	esiB			Secretory immunoglobulin A-binding protein EsiB
+OAAIPILC_00004	CDS	264	yefM		COG2161	Antitoxin YefM
+OAAIPILC_00005	CDS	264	yoeB	3.1.-.-	COG4115	Toxin YoeB
+OAAIPILC_00006	CDS	303				hypothetical protein
+OAAIPILC_00007	CDS	1653				hypothetical protein

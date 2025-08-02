@@ -1,0 +1,631 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 7 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 28 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2025 } } } ,
+        create-date
+          std {
+            year 2025 ,
+            month 7 ,
+            day 28 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "p1ABAYE" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 5644 ,
+            seq-data
+              iupacna "ACAGTAAAACTATAGTTGATAAAAATAAATCGCTTAAAACGCAAATGAGAGCCTT
+TTAGCGAGTGTCTACGAGTGACACAACGAAAGGTTGCTTATTCCCCCTCTGAAAAACCGTTTTTTATTGAATTACTGG
+GGACAGTGATTAGCGAGTGTCTACGAGCGAAGTATTGATGCTTTTGCTCGTCAAAAAGCATGAGCATAGCGAATGCAT
+TATTCATGTTTTGCTTTTTGAATCCTTGATCATATATGCAAAAAACTGCCCCCACGAAGCGAGTGAAACGAGCTTCAA
+TAGAGTACGAGCTTTAGCGAGTACCAAGGGCAGTTTTAATAACTCACTTTGGAAATAAATTCCCTTTTATTCTTTTAA
+AAAGCTTTTAAAAGCTTTTAGACCCTCTGAAAACCTTATGCAGCAATAGTTTCAAGCGTTAAAAGGGTACAAATAGCA
+TGATAAAGGGTACAAATAGCATGATTTTATCGTTTAAAAGGGTACAAATAGCATGATTAAAGGGTACAAATAGCATGA
+TAAAGGGTACAAATAAATTATTGTACCCTTATGTTTATTGGTGTACATTGTTTTCTCATAAGGGTACAAAAATCATGT
+TCATTTTTTATAAGGTTTGATATCTGAATGAATAAAGAAAATAGTTATGATAAATCTTATCCAGTAACAACAATGGCT
+ATTCAAAACAAAGTTACTGAATGCTTTAAAAGCATGTCTGTAGATGAAAAAAGAATTTTAATTATGGCTTCTCCGATT
+GCTAGAAATGTCGATGCAAGTGAACAAGATCAAATCTTAATATCTGCTCAACAATTTGCTGATGACTGTGGTATCAAA
+GTCAATTCTGCTTATAAACAAATTGAAAATGCGTCAAAAAAACTAGTAGATCGGTCCTTTTCATACGTTAATGATAGG
+GGGAAAAAGGTCTACTCTAACTGGGTAATTGATGCTACTTATGAAGATGCAGGGATATCTTTAAGGTTTACATCTATT
+GTTTTGGTGATGTTGAAAATTTTAGATAAATACAATCCATACACTCGTTATAAAAAAGATGTAGTTCTAAAATTAAAA
+AAAGACTACTCAATAGACTTTTACCATTTAGCGAAAAAAAATCAGGCAAAAAATGGCTTTGAATTAACGCTAGATGAA
+ATGTTTACAGAGTTTGGTTTACCAGAATCTTATAGAGATTTGAGGAACTTAAAACGAAGAGTTTTGAAGAGCTCATTA
+GATGAAATTAATGAATTTACCGATGTAACAGTTGACTATAGTCCAGTTAAAAAAGGACGTTCTGTTGTCGGCTTTAAG
+TTCACTGTGAAAGAAAAATCTAAGCCAAAATTAATAGCTCCTGAGCGAGATCCAAAAACAATAGATATGTTCTGCAAC
+CTGTCTGATGCTCAAATTAACAAGTACAGTGCTATTTTATCTAAACTTTCTGAGCTATCAGACCTAAGTAACTTCCAG
+GACTATCCTAGTTTTGCCCTTTGGATTAGTGGCATCTTACGAGATCCGAAAAGTGTAAGAGAGGAAACAGCAAAGCGG
+ATTTTTAAAGCTCTTCATAGCAAGACGGATTTTAAACCATGAAAACTAGAGCTGAATTAGATGCAATGAGCCATCAAG
+AGCTCAAAGACTATGAGCAAATTTTACTTGCTCTGTGGACACCAAGAATGGCTATTGAAAGTGACATTGAAAGGTTAA
+GCACTAATCGCAACGAATTATTAGAAATTTTTAATCAATTAAAAAATCCTGATGCTCCTGAAAATGAGCGTTTAAAAA
+ATTCTATTTTATCGCTCAAATATAAGATTGAAGATTTAGAAGATAAATTGGATGATCTTATTCAAGATAATCGCTTAA
+ATCGTGCAGATTGAATTATTCAGTTTATTTAATTAAAACCGTGAAACATTGATCAAAGAATAGGCGTGGAACGTGAAA
+AATCATAAAAAAAGCCCACCAGAGGGTATGTGGGCTAAAATCATGTAACTACAGCATTGATTTCTATAGATAATTATA
+ACGCATTTCGTATAAGGTGTATTATGTTAATTTTAGGAAATATTAAAACTAATTTTCAGACTTATCCCACCAACTTTG
+AGCTAAATCAGTATTTTTAGGAATACCTATACCATCACGATACATAACGGAAAGACTTCGCATTGCTTTCTTATTACC
+TAACTTTGCAGCCTTTTCACGAAGTTCAAAAGCTTTATTAATATTAACTTCTATTCCGCTATCTGCACGAGTATATAG
+ATCAGCTAACTCAACCATTGATTCAGAATGGCCATTTTCTGAGGCTTTCTGAAACCACTTAAAAGCTTTTTGGAAATG
+TTCTAAAGAATCGTTTTTGTCATCATCTTCCATTAATCTAGCATAAGTAACATATCCATCAGCTAACCAAAACATTGC
+TGCTACATTTCCATTTTCTGCTGATTTAAGAGCCCAAACTTCAGCTTGATTTTCATCTGAATCAACACCATGACCATA
+TAGATAAATCTCGGCTAATTCTAACTGAGCAGAAGTATCTCCATTTTCTGCTTTCGCTAATAAATCATTAGAAAAAAC
+AGGTTCTGCAAATGTTTCCATTGAAAGGCAAACTCCTAAAGCCATAAAAATATTTGTTAATTTATTCAATTTTTAACC
+TTTAAACTAAACTGTTAGGCTTGTATATTTTTATATCATACCTAAAAGAAAACTCTAAAATTAGAGTATGTCTTATCT
+CTATTTAACATAATGGCGGTTATACGAAATTGACAATATGTACAGGATTCTGTACATTTAGGATTGTAAAGTTTCAAT
+CACTACCGCCTAGGTAGTCTAGCTAGCAGCGTTTTGACGCAGCTTACCCTATGAGGGATAGATATATGCATGTATTTA
+CATATACGGACGCACGTAACAATTTAAAATCTGTTTTAGATAAAGTAATTGATGATGTAGACGTTGCTTTTATTACAA
+GAAAAGAAGGTGGCCATGCTGTAGTAATGGGACAAGATCATTACGATAGCTTAATGGAAACGTTATATCTCCTTTCAT
+CTCCAAATAATGCAAGTCGTTTAAATGAATCAATTGCTCAATTACGTGCAGGGAAAACAAAACACAGAGAGTTGATTG
+AGGATGACGAATCGTAACGTCGAATGGACTGATAATGCCTGGGATGAATATATCTATTGGCAGACACAGGATAAAAAG
+ATACTTAAGCGTATTAATACCTTAATCAAAGAATGTCAGCGAACACCTTTTGAAGGAACAGGAAAACCAGAACCTTTA
+AAAGCTAATCTTTCAGGATTTTGGAGTCGTAGGATTGATGAAAAGCATAGATTAGTTTATGAAGTGACAGATGAACGA
+ATCTCTATAATTCAATGTCGATTCCATTACTAACAAGATCCCCTATTTTTAGGGGATTGTTTTTTTATTTAATACAAA
+ATCTCATATGCGAAATTTAGGTGTTATTCCATATAACGCCATTAAAAAGATCTTTATCTTTCTGCCTATTTTCTTCAG
+TCTTACTTTCCGTGCTTAAAAACTTTTCAAAATCGGTTAGTTGACCCTTAAAAGATTCATCATTTTTCAGTTTGTTTA
+GAACCCAAGCCCCCAGTAGAATTTTACGTCTAGTATCATCTTTTCTTTGTCGATCAGAATTTTTCTTTTTTTCACGAG
+CAGCAATAGCTTGTTTTTGTGCTTTTAGTTGTCTTAATCGTTCTTCTTGCTTTGCAATTTTTTGCTCTAAAGTTTCAA
+CACTCATACCATCACCATCTCAAGGAATCCCCCTCAAGCATAGGTCTGTTTGAATTGAAATTCAAGACAGCCCATGCT
+ATCGTGGTTTTCCCGAAGGGCGCACTTAGCCATTGGATTTCATCCAATGGTGCGACAAGGGGTAAATCCCCTTTGTAA
+TCCCCAGACCAACATATTCATGTTGGTAATTTCGATAAATCGAAATAAAGAGCAAAACAAAATGGCGATATATCATTT
+TTCAGTTAAAACGATTAGTAGAGGTAATGGACGATCAGCCGTTGCTTGTGCTGCATATCGTTCAGGTGAAAAATTGGT
+ATGCAATTTCTATGGAAAAGAACAAGACTACACAAAAAAAACTGGTGTCGAATTTACAGAAATCTATGCGCCCGAAAA
+TACAAATACCGAGTTACTCAATCGTCAGACACTTTGGAACAAAGTCGAAAAAGCCGAACGAAGAAAAGATGCATTACT
+TGCAAGAGAATTTGAAATTGCATTTCCAGGTGAATTAAACGCTGAACAGCGTAAAAATATGCTCAATGAACTTTGCCA
+AAACCTCGTTAAAAAATATGGTGTCATCGTTGACGCTGCTATTCATGCACCGCATACAGACAGTGGAAGTGATGAACG
+CAACTACCATGCACACATCATGTTCACCACCCGAAGTATTAATGAGCATGGTGACTTTTCAGCAAAAAAATATAGGGA
+CTTCAGTCGTGACAATGGCACAGAAACTGTAAGCCTCTGGAGAGAATCATTTGCAGAATTATGCAATCACCACCTGAA
+ACAAAATGGATTTGATGAACGTGTCGATCACAGAAGTTATGAAGACCAGGAAAGTGACCTAGAAGCAACTCAGCACGA
+AGGTCCTCAAGCGACATACCTCCGGAGACGAGGAATATTTACAGAAATTAGTCTGAAAAATGATGAAATTAAGCTACG
+TAATTTAAAAATCAAAAAGGTCATCGCACTGGATGAAAACATCAAAGTATCTGAGGATCTTGTTCAAAAAGTACGAAG
+TGAGCTTCAGTTTCAATACTCTCAAGCTGAGTATTTAGAAAAAACTTCTCAGAAACTTTCTGAATTCCAAAATGAAGA
+ATTATCAAAATTAACAACAAAATTAAACACGATGAGTTCTGCAATATCAGAACTACGCAAAAAAGAGCCTTTATTTTT
+TAAAACAAAATGGATCAATCAAATAAATGACCTGATCGACCAACACAACACCCAACTAGACATCCAAAAGCATATTTC
+TGGTCTTAGTGAAATAGAAAAAAAAGAGAGATATTCTGATCATTTAAATAAATGGACAGAAGAAAATCAGCTGCTCCA
+GCCTAAAAAGTCTTTTGCAAAATTTGACGAACCGAACATCACTGTTAAACAACGAAAACTTAATGATCAAATTTCAAA
+TATAGATCATCAAATTTCTGAAATATCACGCAGAGAAACTGAGTATCAAGAGTATGTACGCGATCAAAGACTGGAGAT
+CATAAATAGTTATATATTTGAAGAAGATAACTATGGAAATAAATACTTTAGTCCTCAAAATGGTGAAAAACAAAAGCG
+ACTATATGCAGAAGAAATGGAAGATCTAAAAATCCAAGAATTGCATACGGCTTTTACAAAAAAAATTGAGACCGAAGC
+GCAGCAAGAGTTTTCCCAAAAAAGAGCAATACAGCTCGAAAACGACCGAAAAGATCGTGAATCTAGAGAACAGCAGTT
+ACGTAAAGAACGAGAGCAACAAGAACAACGCTATGCACAAGAACGAGAGCAACAAGAACATTTGGCATTTTTAAGACG
+CCAAGAACAAGAAAAACAGCAGAGAAATGAGCCTAAAAAGCCAGAAAATGACAATAACCATGACTACACGCCTTAGCA
+ATCCCATTTAAGCGCAAAAAAACGGGGGTTTTAGCGACTTTTGATAGAAAT" } } ,
+        seq {
+          id {
+            local
+              str "p1ABAYE_1" } ,
+          descr {
+            title "hypothetical protein OAAIPILC_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 316 ,
+            seq-data
+              ncbieaa "MNKENSYDKSYPVTTMAIQNKVTECFKSMSVDEKRILIMASPIARNVDASEQDQI
+LISAQQFADDCGIKVNSAYKQIENASKKLVDRSFSYVNDRGKKVYSNWVIDATYEDAGISLRFTSIVLVMLKILDKYN
+PYTRYKKDVVLKLKKDYSIDFYHLAKKNQAKNGFELTLDEMFTEFGLPESYRDLRNLKRRVLKSSLDEINEFTDVTVD
+YSPVKKGRSVVGFKFTVKEKSKPKLIAPERDPKTIDMFCNLSDAQINKYSAILSKLSELSDLSNFQDYPSFALWISGI
+LRDPKSVREETAKRIFKALHSKTDFKP" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 315 ,
+                        id
+                          local
+                            str "p1ABAYE_1" } } } } } } ,
+        seq {
+          id {
+            local
+              str "p1ABAYE_2" } ,
+          descr {
+            title "hypothetical protein OAAIPILC_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 95 ,
+            seq-data
+              ncbieaa "MKTRAELDAMSHQELKDYEQILLALWTPRMAIESDIERLSTNRNELLEIFNQLKN
+PDAPENERLKNSILSLKYKIEDLEDKLDDLIQDNRLNRAD" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 94 ,
+                        id
+                          local
+                            str "p1ABAYE_2" } } } } } } ,
+        seq {
+          id {
+            local
+              str "p1ABAYE_3" } ,
+          descr {
+            title "Secretory immunoglobulin A-binding protein EsiB [Genus
+ species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 180 ,
+            seq-data
+              ncbieaa "MALGVCLSMETFAEPVFSNDLLAKAENGDTSAQLELAEIYLYGHGVDSDENQAEV
+WALKSAENGNVAAMFWLADGYVTYARLMEDDDKNDSLEHFQKAFKWFQKASENGHSESMVELADLYTRADSGIEVNIN
+KAFELREKAAKLGNKKAMRSLSVMYRDGIGIPKNTDLAQSWWDKSEN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      prot {
+                        name {
+                          "Secretory immunoglobulin A-binding protein EsiB" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 179 ,
+                        id
+                          local
+                            str "p1ABAYE_3" } } } } } } ,
+        seq {
+          id {
+            local
+              str "p1ABAYE_4" } ,
+          descr {
+            title "Antitoxin YefM [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 87 ,
+            seq-data
+              ncbieaa "MHVFTYTDARNNLKSVLDKVIDDVDVAFITRKEGGHAVVMGQDHYDSLMETLYLL
+SSPNNASRLNESIAQLRAGKTKHRELIEDDES" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      prot {
+                        name {
+                          "Antitoxin YefM" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 86 ,
+                        id
+                          local
+                            str "p1ABAYE_4" } } } } } } ,
+        seq {
+          id {
+            local
+              str "p1ABAYE_5" } ,
+          descr {
+            title "Toxin YoeB [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 87 ,
+            seq-data
+              ncbieaa "MTNRNVEWTDNAWDEYIYWQTQDKKILKRINTLIKECQRTPFEGTGKPEPLKANL
+SGFWSRRIDEKHRLVYEVTDERISIIQCRFHY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      prot {
+                        name {
+                          "Toxin YoeB" } ,
+                        ec {
+                          "3.1.-.-" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 86 ,
+                        id
+                          local
+                            str "p1ABAYE_5" } } } } } } ,
+        seq {
+          id {
+            local
+              str "p1ABAYE_6" } ,
+          descr {
+            title "hypothetical protein OAAIPILC_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 100 ,
+            seq-data
+              ncbieaa "MSVETLEQKIAKQEERLRQLKAQKQAIAAREKKKNSDRQRKDDTRRKILLGAWVL
+NKLKNDESFKGQLTDFEKFLSTESKTEENRQKDKDLFNGVIWNNT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 99 ,
+                        id
+                          local
+                            str "p1ABAYE_6" } } } } } } ,
+        seq {
+          id {
+            local
+              str "p1ABAYE_7" } ,
+          descr {
+            title "hypothetical protein OAAIPILC_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 550 ,
+            seq-data
+              ncbieaa "MAIYHFSVKTISRGNGRSAVACAAYRSGEKLVCNFYGKEQDYTKKTGVEFTEIYA
+PENTNTELLNRQTLWNKVEKAERRKDALLAREFEIAFPGELNAEQRKNMLNELCQNLVKKYGVIVDAAIHAPHTDSGS
+DERNYHAHIMFTTRSINEHGDFSAKKYRDFSRDNGTETVSLWRESFAELCNHHLKQNGFDERVDHRSYEDQESDLEAT
+QHEGPQATYLRRRGIFTEISLKNDEIKLRNLKIKKVIALDENIKVSEDLVQKVRSELQFQYSQAEYLEKTSQKLSEFQ
+NEELSKLTTKLNTMSSAISELRKKEPLFFKTKWINQINDLIDQHNTQLDIQKHISGLSEIEKKERYSDHLNKWTEENQ
+LLQPKKSFAKFDEPNITVKQRKLNDQISNIDHQISEISRRETEYQEYVRDQRLEIINSYIFEEDNYGNKYFSPQNGEK
+QKRLYAEEMEDLKIQELHTAFTKKIETEAQQEFSQKRAIQLENDRKDRESREQQLRKEREQQEQRYAQEREQQEHLAF
+LRRQEQEKQQRNEPKKPENDNNHDYTP" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 549 ,
+                        id
+                          local
+                            str "p1ABAYE_7" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "p1ABAYE_1" ,
+                location
+                  int {
+                    from 628 ,
+                    to 1578 ,
+                    strand plus ,
+                    id
+                      local
+                        str "p1ABAYE" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OAAIPILC_00001" } } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "p1ABAYE_2" ,
+                location
+                  int {
+                    from 1575 ,
+                    to 1862 ,
+                    strand plus ,
+                    id
+                      local
+                        str "p1ABAYE" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OAAIPILC_00002" } } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "p1ABAYE_3" ,
+                location
+                  int {
+                    from 2053 ,
+                    to 2595 ,
+                    strand minus ,
+                    id
+                      local
+                        str "p1ABAYE" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H2VDN9" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "esiB" ,
+                        locus-tag "OAAIPILC_00003" } } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "p1ABAYE_4" ,
+                location
+                  int {
+                    from 2850 ,
+                    to 3113 ,
+                    strand plus ,
+                    id
+                      local
+                        str "p1ABAYE" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P69346" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "yefM" ,
+                        locus-tag "OAAIPILC_00004" } } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2161" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "p1ABAYE_5" ,
+                location
+                  int {
+                    from 3100 ,
+                    to 3363 ,
+                    strand plus ,
+                    id
+                      local
+                        str "p1ABAYE" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P69348" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "yoeB" ,
+                        locus-tag "OAAIPILC_00005" } } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG4115" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "p1ABAYE_6" ,
+                location
+                  int {
+                    from 3425 ,
+                    to 3727 ,
+                    strand minus ,
+                    id
+                      local
+                        str "p1ABAYE" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OAAIPILC_00006" } } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "p1ABAYE_7" ,
+                location
+                  int {
+                    from 3938 ,
+                    to 5590 ,
+                    strand plus ,
+                    id
+                      local
+                        str "p1ABAYE" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "OAAIPILC_00007" } } } } } } } } } }

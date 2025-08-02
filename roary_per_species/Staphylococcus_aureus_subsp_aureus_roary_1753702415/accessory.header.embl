@@ -1,0 +1,2909 @@
+ID   Genome standard; DNA; PRO; 1234 BP.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   misc_feature    300
+FT                   /label=group_433
+FT                   /locus_tag=group_433
+FT                   /colour=3
+FT   misc_feature    318
+FT                   /label=group_483
+FT                   /locus_tag=group_483
+FT                   /colour=6
+FT   misc_feature    489
+FT                   /label=group_381
+FT                   /locus_tag=group_381
+FT                   /colour=7
+FT   misc_feature    338
+FT                   /label=group_601
+FT                   /locus_tag=group_601
+FT                   /colour=3
+FT   misc_feature    224
+FT                   /label=group_618
+FT                   /locus_tag=group_618
+FT                   /colour=7
+FT   feature         558
+FT                   /label=lukDv_1
+FT                   /locus_tag=lukDv_1
+FT                   /colour=4
+FT   feature         2
+FT                   /label=bacC
+FT                   /locus_tag=bacC
+FT                   /colour=4
+FT   misc_feature    556
+FT                   /label=group_187
+FT                   /locus_tag=group_187
+FT                   /colour=3
+FT   misc_feature    352
+FT                   /label=group_740
+FT                   /locus_tag=group_740
+FT                   /colour=4
+FT   feature         251
+FT                   /label=lpl2_1
+FT                   /locus_tag=lpl2_1
+FT                   /colour=2
+FT   misc_feature    578
+FT                   /label=group_354
+FT                   /locus_tag=group_354
+FT                   /colour=4
+FT   misc_feature    94
+FT                   /label=group_626
+FT                   /locus_tag=group_626
+FT                   /colour=6
+FT   misc_feature    483
+FT                   /label=group_361
+FT                   /locus_tag=group_361
+FT                   /colour=7
+FT   feature         137
+FT                   /label=essG_1
+FT                   /locus_tag=essG_1
+FT                   /colour=5
+FT   misc_feature    327
+FT                   /label=group_686
+FT                   /locus_tag=group_686
+FT                   /colour=7
+FT   misc_feature    320
+FT                   /label=group_485
+FT                   /locus_tag=group_485
+FT                   /colour=6
+FT   feature         570
+FT                   /label=smc_2
+FT                   /locus_tag=smc_2
+FT                   /colour=4
+FT   misc_feature    206
+FT                   /label=group_648
+FT                   /locus_tag=group_648
+FT                   /colour=2
+FT   feature         324
+FT                   /label=lpl2_5
+FT                   /locus_tag=lpl2_5
+FT                   /colour=7
+FT   feature         22
+FT                   /label=yecD
+FT                   /locus_tag=yecD
+FT                   /colour=6
+FT   misc_feature    185
+FT                   /label=group_318
+FT                   /locus_tag=group_318
+FT                   /colour=7
+FT   misc_feature    577
+FT                   /label=group_355
+FT                   /locus_tag=group_355
+FT                   /colour=4
+FT   misc_feature    488
+FT                   /label=group_366
+FT                   /locus_tag=group_366
+FT                   /colour=7
+FT   misc_feature    219
+FT                   /label=group_178
+FT                   /locus_tag=group_178
+FT                   /colour=6
+FT   misc_feature    540
+FT                   /label=group_203
+FT                   /locus_tag=group_203
+FT                   /colour=3
+FT   misc_feature    562
+FT                   /label=group_324
+FT                   /locus_tag=group_324
+FT                   /colour=4
+FT   misc_feature    448
+FT                   /label=group_419
+FT                   /locus_tag=group_419
+FT                   /colour=5
+FT   feature         83
+FT                   /label=flr
+FT                   /locus_tag=flr
+FT                   /colour=7
+FT   feature         123
+FT                   /label=tarM
+FT                   /locus_tag=tarM
+FT                   /colour=7
+FT   misc_feature    466
+FT                   /label=group_767
+FT                   /locus_tag=group_767
+FT                   /colour=6
+FT   misc_feature    65
+FT                   /label=group_493
+FT                   /locus_tag=group_493
+FT                   /colour=7
+FT   misc_feature    93
+FT                   /label=group_623
+FT                   /locus_tag=group_623
+FT                   /colour=5
+FT   feature         367
+FT                   /label=essG_4
+FT                   /locus_tag=essG_4
+FT                   /colour=6
+FT   feature         111
+FT                   /label=sbi
+FT                   /locus_tag=sbi
+FT                   /colour=5
+FT   misc_feature    280
+FT                   /label=group_271
+FT                   /locus_tag=group_271
+FT                   /colour=7
+FT   misc_feature    402
+FT                   /label=group_772
+FT                   /locus_tag=group_772
+FT                   /colour=2
+FT   misc_feature    527
+FT                   /label=group_518
+FT                   /locus_tag=group_518
+FT                   /colour=2
+FT   misc_feature    69
+FT                   /label=group_237
+FT                   /locus_tag=group_237
+FT                   /colour=5
+FT   misc_feature    108
+FT                   /label=group_632
+FT                   /locus_tag=group_632
+FT                   /colour=2
+FT   misc_feature    622
+FT                   /label=group_534
+FT                   /locus_tag=group_534
+FT                   /colour=5
+FT   misc_feature    51
+FT                   /label=group_603
+FT                   /locus_tag=group_603
+FT                   /colour=5
+FT   misc_feature    424
+FT                   /label=group_716
+FT                   /locus_tag=group_716
+FT                   /colour=3
+FT   feature         312
+FT                   /label=epiD
+FT                   /locus_tag=epiD
+FT                   /colour=5
+FT   misc_feature    536
+FT                   /label=group_184
+FT                   /locus_tag=group_184
+FT                   /colour=3
+FT   misc_feature    199
+FT                   /label=group_441
+FT                   /locus_tag=group_441
+FT                   /colour=6
+FT   feature         204
+FT                   /label=norG
+FT                   /locus_tag=norG
+FT                   /colour=2
+FT   misc_feature    32
+FT                   /label=group_455
+FT                   /locus_tag=group_455
+FT                   /colour=4
+FT   misc_feature    27
+FT                   /label=group_270
+FT                   /locus_tag=group_270
+FT                   /colour=5
+FT   misc_feature    155
+FT                   /label=group_452
+FT                   /locus_tag=group_452
+FT                   /colour=4
+FT   misc_feature    49
+FT                   /label=group_463
+FT                   /locus_tag=group_463
+FT                   /colour=3
+FT   misc_feature    496
+FT                   /label=group_374
+FT                   /locus_tag=group_374
+FT                   /colour=7
+FT   misc_feature    337
+FT                   /label=group_250
+FT                   /locus_tag=group_250
+FT                   /colour=2
+FT   misc_feature    580
+FT                   /label=group_352
+FT                   /locus_tag=group_352
+FT                   /colour=4
+FT   misc_feature    573
+FT                   /label=group_335
+FT                   /locus_tag=group_335
+FT                   /colour=4
+FT   misc_feature    420
+FT                   /label=group_720
+FT                   /locus_tag=group_720
+FT                   /colour=3
+FT   misc_feature    592
+FT                   /label=group_340
+FT                   /locus_tag=group_340
+FT                   /colour=4
+FT   misc_feature    552
+FT                   /label=group_191
+FT                   /locus_tag=group_191
+FT                   /colour=3
+FT   misc_feature    521
+FT                   /label=group_509
+FT                   /locus_tag=group_509
+FT                   /colour=2
+FT   feature         91
+FT                   /label=sspA
+FT                   /locus_tag=sspA
+FT                   /colour=3
+FT   feature         136
+FT                   /label=essG_2
+FT                   /locus_tag=essG_2
+FT                   /colour=5
+FT   misc_feature    458
+FT                   /label=group_417
+FT                   /locus_tag=group_417
+FT                   /colour=5
+FT   misc_feature    220
+FT                   /label=group_2602
+FT                   /locus_tag=group_2602
+FT                   /colour=6
+FT   misc_feature    564
+FT                   /label=group_326
+FT                   /locus_tag=group_326
+FT                   /colour=4
+FT   feature         265
+FT                   /label=essG_7
+FT                   /locus_tag=essG_7
+FT                   /colour=4
+FT   misc_feature    104
+FT                   /label=group_647
+FT                   /locus_tag=group_647
+FT                   /colour=4
+FT   misc_feature    377
+FT                   /label=group_673
+FT                   /locus_tag=group_673
+FT                   /colour=6
+FT   misc_feature    141
+FT                   /label=group_752
+FT                   /locus_tag=group_752
+FT                   /colour=3
+FT   feature         5
+FT                   /label=rnhC
+FT                   /locus_tag=rnhC
+FT                   /colour=7
+FT   misc_feature    169
+FT                   /label=group_711
+FT                   /locus_tag=group_711
+FT                   /colour=2
+FT   misc_feature    291
+FT                   /label=group_581
+FT                   /locus_tag=group_581
+FT                   /colour=2
+FT   misc_feature    46
+FT                   /label=group_313
+FT                   /locus_tag=group_313
+FT                   /colour=6
+FT   misc_feature    57
+FT                   /label=group_489
+FT                   /locus_tag=group_489
+FT                   /colour=5
+FT   misc_feature    360
+FT                   /label=group_231
+FT                   /locus_tag=group_231
+FT                   /colour=5
+FT   misc_feature    514
+FT                   /label=group_503
+FT                   /locus_tag=group_503
+FT                   /colour=2
+FT   misc_feature    336
+FT                   /label=group_249
+FT                   /locus_tag=group_249
+FT                   /colour=2
+FT   misc_feature    92
+FT                   /label=group_248
+FT                   /locus_tag=group_248
+FT                   /colour=4
+FT   misc_feature    615
+FT                   /label=group_541
+FT                   /locus_tag=group_541
+FT                   /colour=5
+FT   misc_feature    447
+FT                   /label=group_420
+FT                   /locus_tag=group_420
+FT                   /colour=5
+FT   feature         37
+FT                   /label=sdrE
+FT                   /locus_tag=sdrE
+FT                   /colour=3
+FT   misc_feature    126
+FT                   /label=group_643
+FT                   /locus_tag=group_643
+FT                   /colour=3
+FT   misc_feature    618
+FT                   /label=group_538
+FT                   /locus_tag=group_538
+FT                   /colour=5
+FT   feature         17
+FT                   /label=splE
+FT                   /locus_tag=splE
+FT                   /colour=7
+FT   feature         113
+FT                   /label=entE
+FT                   /locus_tag=entE
+FT                   /colour=6
+FT   misc_feature    29
+FT                   /label=group_587
+FT                   /locus_tag=group_587
+FT                   /colour=7
+FT   misc_feature    304
+FT                   /label=group_391
+FT                   /locus_tag=group_391
+FT                   /colour=4
+FT   feature         96
+FT                   /label=ebh
+FT                   /locus_tag=ebh
+FT                   /colour=2
+FT   misc_feature    54
+FT                   /label=group_621
+FT                   /locus_tag=group_621
+FT                   /colour=2
+FT   misc_feature    440
+FT                   /label=group_293
+FT                   /locus_tag=group_293
+FT                   /colour=4
+FT   misc_feature    611
+FT                   /label=group_545
+FT                   /locus_tag=group_545
+FT                   /colour=5
+FT   misc_feature    149
+FT                   /label=group_428
+FT                   /locus_tag=group_428
+FT                   /colour=7
+FT   feature         39
+FT                   /label=ssl1
+FT                   /locus_tag=ssl1
+FT                   /colour=5
+FT   feature         473
+FT                   /label=hin_1
+FT                   /locus_tag=hin_1
+FT                   /colour=6
+FT   misc_feature    208
+FT                   /label=group_478
+FT                   /locus_tag=group_478
+FT                   /colour=3
+FT   misc_feature    20
+FT                   /label=group_490
+FT                   /locus_tag=group_490
+FT                   /colour=4
+FT   misc_feature    294
+FT                   /label=group_439
+FT                   /locus_tag=group_439
+FT                   /colour=3
+FT   misc_feature    248
+FT                   /label=group_466
+FT                   /locus_tag=group_466
+FT                   /colour=7
+FT   misc_feature    579
+FT                   /label=group_353
+FT                   /locus_tag=group_353
+FT                   /colour=4
+FT   misc_feature    74
+FT                   /label=group_24
+FT                   /locus_tag=group_24
+FT                   /colour=4
+FT   feature         269
+FT                   /label=entS
+FT                   /locus_tag=entS
+FT                   /colour=5
+FT   misc_feature    415
+FT                   /label=group_725
+FT                   /locus_tag=group_725
+FT                   /colour=3
+FT   misc_feature    498
+FT                   /label=group_372
+FT                   /locus_tag=group_372
+FT                   /colour=7
+FT   misc_feature    131
+FT                   /label=group_245
+FT                   /locus_tag=group_245
+FT                   /colour=7
+FT   misc_feature    315
+FT                   /label=group_488
+FT                   /locus_tag=group_488
+FT                   /colour=6
+FT   misc_feature    326
+FT                   /label=group_689
+FT                   /locus_tag=group_689
+FT                   /colour=7
+FT   misc_feature    429
+FT                   /label=group_283
+FT                   /locus_tag=group_283
+FT                   /colour=4
+FT   feature         310
+FT                   /label=nisB
+FT                   /locus_tag=nisB
+FT                   /colour=5
+FT   misc_feature    487
+FT                   /label=group_365
+FT                   /locus_tag=group_365
+FT                   /colour=7
+FT   misc_feature    446
+FT                   /label=group_421
+FT                   /locus_tag=group_421
+FT                   /colour=5
+FT   misc_feature    3
+FT                   /label=group_472
+FT                   /locus_tag=group_472
+FT                   /colour=5
+FT   misc_feature    225
+FT                   /label=group_619
+FT                   /locus_tag=group_619
+FT                   /colour=7
+FT   misc_feature    145
+FT                   /label=group_589
+FT                   /locus_tag=group_589
+FT                   /colour=5
+FT   misc_feature    56
+FT                   /label=group_592
+FT                   /locus_tag=group_592
+FT                   /colour=4
+FT   feature         230
+FT                   /label=recD2_2
+FT                   /locus_tag=recD2_2
+FT                   /colour=3
+FT   feature         239
+FT                   /label=sarT
+FT                   /locus_tag=sarT
+FT                   /colour=5
+FT   feature         77
+FT                   /label=sirC
+FT                   /locus_tag=sirC
+FT                   /colour=7
+FT   misc_feature    471
+FT                   /label=group_173
+FT                   /locus_tag=group_173
+FT                   /colour=6
+FT   misc_feature    271
+FT                   /label=group_210
+FT                   /locus_tag=group_210
+FT                   /colour=5
+FT   misc_feature    541
+FT                   /label=group_202
+FT                   /locus_tag=group_202
+FT                   /colour=3
+FT   misc_feature    84
+FT                   /label=group_9
+FT                   /locus_tag=group_9
+FT                   /colour=2
+FT   feature         309
+FT                   /label=gdmA
+FT                   /locus_tag=gdmA
+FT                   /colour=5
+FT   misc_feature    545
+FT                   /label=group_198
+FT                   /locus_tag=group_198
+FT                   /colour=3
+FT   misc_feature    213
+FT                   /label=group_635
+FT                   /locus_tag=group_635
+FT                   /colour=4
+FT   misc_feature    608
+FT                   /label=group_548
+FT                   /locus_tag=group_548
+FT                   /colour=5
+FT   misc_feature    138
+FT                   /label=group_401
+FT                   /locus_tag=group_401
+FT                   /colour=6
+FT   misc_feature    170
+FT                   /label=group_712
+FT                   /locus_tag=group_712
+FT                   /colour=2
+FT   misc_feature    583
+FT                   /label=group_349
+FT                   /locus_tag=group_349
+FT                   /colour=4
+FT   misc_feature    631
+FT                   /label=group_525
+FT                   /locus_tag=group_525
+FT                   /colour=5
+FT   feature         165
+FT                   /label=clfA
+FT                   /locus_tag=clfA
+FT                   /colour=7
+FT   misc_feature    132
+FT                   /label=group_737
+FT                   /locus_tag=group_737
+FT                   /colour=2
+FT   feature         55
+FT                   /label=spoVG
+FT                   /locus_tag=spoVG
+FT                   /colour=3
+FT   misc_feature    250
+FT                   /label=group_465
+FT                   /locus_tag=group_465
+FT                   /colour=7
+FT   feature         270
+FT                   /label=yofA
+FT                   /locus_tag=yofA
+FT                   /colour=5
+FT   feature         238
+FT                   /label=sarU
+FT                   /locus_tag=sarU
+FT                   /colour=5
+FT   misc_feature    168
+FT                   /label=group_713
+FT                   /locus_tag=group_713
+FT                   /colour=2
+FT   misc_feature    359
+FT                   /label=group_232
+FT                   /locus_tag=group_232
+FT                   /colour=5
+FT   feature         362
+FT                   /label=macB
+FT                   /locus_tag=macB
+FT                   /colour=5
+FT   misc_feature    567
+FT                   /label=group_329
+FT                   /locus_tag=group_329
+FT                   /colour=4
+FT   misc_feature    148
+FT                   /label=group_427
+FT                   /locus_tag=group_427
+FT                   /colour=7
+FT   misc_feature    436
+FT                   /label=group_290
+FT                   /locus_tag=group_290
+FT                   /colour=4
+FT   misc_feature    42
+FT                   /label=group_212
+FT                   /locus_tag=group_212
+FT                   /colour=2
+FT   misc_feature    216
+FT                   /label=group_460
+FT                   /locus_tag=group_460
+FT                   /colour=5
+FT   misc_feature    26
+FT                   /label=group_451
+FT                   /locus_tag=group_451
+FT                   /colour=4
+FT   misc_feature    114
+FT                   /label=group_680
+FT                   /locus_tag=group_680
+FT                   /colour=2
+FT   misc_feature    410
+FT                   /label=group_714
+FT                   /locus_tag=group_714
+FT                   /colour=3
+FT   misc_feature    511
+FT                   /label=group_500
+FT                   /locus_tag=group_500
+FT                   /colour=2
+FT   feature         539
+FT                   /label=entH
+FT                   /locus_tag=entH
+FT                   /colour=3
+FT   misc_feature    36
+FT                   /label=group_559
+FT                   /locus_tag=group_559
+FT                   /colour=2
+FT   feature         233
+FT                   /label=recD
+FT                   /locus_tag=recD
+FT                   /colour=3
+FT   feature         159
+FT                   /label=fnbB
+FT                   /locus_tag=fnbB
+FT                   /colour=5
+FT   misc_feature    21
+FT                   /label=group_476
+FT                   /locus_tag=group_476
+FT                   /colour=5
+FT   misc_feature    245
+FT                   /label=group_571
+FT                   /locus_tag=group_571
+FT                   /colour=6
+FT   feature         1
+FT                   /label=srrA
+FT                   /locus_tag=srrA
+FT                   /colour=3
+FT   misc_feature    217
+FT                   /label=group_461
+FT                   /locus_tag=group_461
+FT                   /colour=5
+FT   feature         272
+FT                   /label=gltR
+FT                   /locus_tag=gltR
+FT                   /colour=5
+FT   feature         255
+FT                   /label=lpl2_2
+FT                   /locus_tag=lpl2_2
+FT                   /colour=2
+FT   misc_feature    317
+FT                   /label=group_482
+FT                   /locus_tag=group_482
+FT                   /colour=6
+FT   misc_feature    516
+FT                   /label=group_5
+FT                   /locus_tag=group_5
+FT                   /colour=2
+FT   misc_feature    61
+FT                   /label=group_657
+FT                   /locus_tag=group_657
+FT                   /colour=3
+FT   misc_feature    501
+FT                   /label=group_369
+FT                   /locus_tag=group_369
+FT                   /colour=7
+FT   misc_feature    45
+FT                   /label=group_224
+FT                   /locus_tag=group_224
+FT                   /colour=5
+FT   misc_feature    109
+FT                   /label=group_620
+FT                   /locus_tag=group_620
+FT                   /colour=3
+FT   misc_feature    53
+FT                   /label=group_656
+FT                   /locus_tag=group_656
+FT                   /colour=7
+FT   feature         287
+FT                   /label=btuD_3
+FT                   /locus_tag=btuD_3
+FT                   /colour=2
+FT   misc_feature    614
+FT                   /label=group_542
+FT                   /locus_tag=group_542
+FT                   /colour=5
+FT   feature         11
+FT                   /label=sdrC
+FT                   /locus_tag=sdrC
+FT                   /colour=7
+FT   misc_feature    261
+FT                   /label=group_607
+FT                   /locus_tag=group_607
+FT                   /colour=3
+FT   misc_feature    30
+FT                   /label=group_739
+FT                   /locus_tag=group_739
+FT                   /colour=2
+FT   misc_feature    144
+FT                   /label=group_590
+FT                   /locus_tag=group_590
+FT                   /colour=5
+FT   misc_feature    140
+FT                   /label=group_753
+FT                   /locus_tag=group_753
+FT                   /colour=3
+FT   misc_feature    181
+FT                   /label=group_660
+FT                   /locus_tag=group_660
+FT                   /colour=6
+FT   misc_feature    135
+FT                   /label=group_730
+FT                   /locus_tag=group_730
+FT                   /colour=3
+FT   misc_feature    620
+FT                   /label=group_536
+FT                   /locus_tag=group_536
+FT                   /colour=5
+FT   misc_feature    606
+FT                   /label=group_550
+FT                   /locus_tag=group_550
+FT                   /colour=5
+FT   feature         157
+FT                   /label=ycjY
+FT                   /locus_tag=ycjY
+FT                   /colour=4
+FT   misc_feature    100
+FT                   /label=group_562
+FT                   /locus_tag=group_562
+FT                   /colour=6
+FT   feature         34
+FT                   /label=sdrE_1
+FT                   /locus_tag=sdrE_1
+FT                   /colour=6
+FT   misc_feature    186
+FT                   /label=group_445
+FT                   /locus_tag=group_445
+FT                   /colour=2
+FT   misc_feature    229
+FT                   /label=group_359
+FT                   /locus_tag=group_359
+FT                   /colour=2
+FT   misc_feature    328
+FT                   /label=group_687
+FT                   /locus_tag=group_687
+FT                   /colour=7
+FT   feature         376
+FT                   /label=essG_8
+FT                   /locus_tag=essG_8
+FT                   /colour=6
+FT   feature         544
+FT                   /label=gloB_1
+FT                   /locus_tag=gloB_1
+FT                   /colour=3
+FT   misc_feature    262
+FT                   /label=group_239
+FT                   /locus_tag=group_239
+FT                   /colour=4
+FT   misc_feature    67
+FT                   /label=group_473
+FT                   /locus_tag=group_473
+FT                   /colour=3
+FT   misc_feature    343
+FT                   /label=group_597
+FT                   /locus_tag=group_597
+FT                   /colour=3
+FT   misc_feature    9
+FT                   /label=group_22
+FT                   /locus_tag=group_22
+FT                   /colour=5
+FT   misc_feature    212
+FT                   /label=group_634
+FT                   /locus_tag=group_634
+FT                   /colour=4
+FT   misc_feature    210
+FT                   /label=group_636
+FT                   /locus_tag=group_636
+FT                   /colour=4
+FT   misc_feature    393
+FT                   /label=group_705
+FT                   /locus_tag=group_705
+FT                   /colour=7
+FT   misc_feature    288
+FT                   /label=group_584
+FT                   /locus_tag=group_584
+FT                   /colour=2
+FT   misc_feature    477
+FT                   /label=group_762
+FT                   /locus_tag=group_762
+FT                   /colour=6
+FT   misc_feature    174
+FT                   /label=group_18
+FT                   /locus_tag=group_18
+FT                   /colour=4
+FT   misc_feature    407
+FT                   /label=group_174
+FT                   /locus_tag=group_174
+FT                   /colour=2
+FT   feature         218
+FT                   /label=pre
+FT                   /locus_tag=pre
+FT                   /colour=6
+FT   misc_feature    196
+FT                   /label=group_750
+FT                   /locus_tag=group_750
+FT                   /colour=5
+FT   misc_feature    470
+FT                   /label=group_175
+FT                   /locus_tag=group_175
+FT                   /colour=6
+FT   misc_feature    607
+FT                   /label=group_549
+FT                   /locus_tag=group_549
+FT                   /colour=5
+FT   misc_feature    178
+FT                   /label=group_261
+FT                   /locus_tag=group_261
+FT                   /colour=5
+FT   misc_feature    616
+FT                   /label=group_540
+FT                   /locus_tag=group_540
+FT                   /colour=5
+FT   misc_feature    66
+FT                   /label=group_16
+FT                   /locus_tag=group_16
+FT                   /colour=2
+FT   misc_feature    278
+FT                   /label=group_214
+FT                   /locus_tag=group_214
+FT                   /colour=6
+FT   misc_feature    388
+FT                   /label=group_703
+FT                   /locus_tag=group_703
+FT                   /colour=7
+FT   misc_feature    500
+FT                   /label=group_370
+FT                   /locus_tag=group_370
+FT                   /colour=7
+FT   feature         535
+FT                   /label=ugpQ
+FT                   /locus_tag=ugpQ
+FT                   /colour=3
+FT   misc_feature    533
+FT                   /label=group_181
+FT                   /locus_tag=group_181
+FT                   /colour=3
+FT   misc_feature    469
+FT                   /label=group_2601
+FT                   /locus_tag=group_2601
+FT                   /colour=6
+FT   misc_feature    494
+FT                   /label=group_376
+FT                   /locus_tag=group_376
+FT                   /colour=7
+FT   misc_feature    295
+FT                   /label=group_438
+FT                   /locus_tag=group_438
+FT                   /colour=3
+FT   misc_feature    134
+FT                   /label=group_731
+FT                   /locus_tag=group_731
+FT                   /colour=3
+FT   misc_feature    333
+FT                   /label=group_253
+FT                   /locus_tag=group_253
+FT                   /colour=2
+FT   misc_feature    115
+FT                   /label=group_679
+FT                   /locus_tag=group_679
+FT                   /colour=2
+FT   misc_feature    452
+FT                   /label=group_411
+FT                   /locus_tag=group_411
+FT                   /colour=5
+FT   misc_feature    621
+FT                   /label=group_535
+FT                   /locus_tag=group_535
+FT                   /colour=5
+FT   misc_feature    481
+FT                   /label=group_758
+FT                   /locus_tag=group_758
+FT                   /colour=6
+FT   misc_feature    602
+FT                   /label=group_554
+FT                   /locus_tag=group_554
+FT                   /colour=5
+FT   misc_feature    574
+FT                   /label=group_336
+FT                   /locus_tag=group_336
+FT                   /colour=4
+FT   misc_feature    41
+FT                   /label=group_238
+FT                   /locus_tag=group_238
+FT                   /colour=7
+FT   misc_feature    551
+FT                   /label=group_192
+FT                   /locus_tag=group_192
+FT                   /colour=3
+FT   misc_feature    554
+FT                   /label=group_189
+FT                   /locus_tag=group_189
+FT                   /colour=3
+FT   misc_feature    122
+FT                   /label=group_301
+FT                   /locus_tag=group_301
+FT                   /colour=7
+FT   misc_feature    151
+FT                   /label=group_681
+FT                   /locus_tag=group_681
+FT                   /colour=2
+FT   misc_feature    116
+FT                   /label=group_676
+FT                   /locus_tag=group_676
+FT                   /colour=3
+FT   misc_feature    308
+FT                   /label=group_394
+FT                   /locus_tag=group_394
+FT                   /colour=5
+FT   misc_feature    582
+FT                   /label=group_350
+FT                   /locus_tag=group_350
+FT                   /colour=4
+FT   misc_feature    417
+FT                   /label=group_723
+FT                   /locus_tag=group_723
+FT                   /colour=3
+FT   misc_feature    600
+FT                   /label=group_556
+FT                   /locus_tag=group_556
+FT                   /colour=5
+FT   misc_feature    609
+FT                   /label=group_547
+FT                   /locus_tag=group_547
+FT                   /colour=5
+FT   misc_feature    550
+FT                   /label=group_193
+FT                   /locus_tag=group_193
+FT                   /colour=3
+FT   misc_feature    282
+FT                   /label=group_277
+FT                   /locus_tag=group_277
+FT                   /colour=7
+FT   misc_feature    97
+FT                   /label=group_14
+FT                   /locus_tag=group_14
+FT                   /colour=3
+FT   feature         107
+FT                   /label=treA
+FT                   /locus_tag=treA
+FT                   /colour=7
+FT   misc_feature    584
+FT                   /label=group_348
+FT                   /locus_tag=group_348
+FT                   /colour=4
+FT   misc_feature    289
+FT                   /label=group_583
+FT                   /locus_tag=group_583
+FT                   /colour=2
+FT   misc_feature    543
+FT                   /label=group_200
+FT                   /locus_tag=group_200
+FT                   /colour=3
+FT   feature         103
+FT                   /label=glyA
+FT                   /locus_tag=glyA
+FT                   /colour=3
+FT   misc_feature    596
+FT                   /label=group_522
+FT                   /locus_tag=group_522
+FT                   /colour=5
+FT   misc_feature    432
+FT                   /label=group_286
+FT                   /locus_tag=group_286
+FT                   /colour=4
+FT   misc_feature    605
+FT                   /label=group_551
+FT                   /locus_tag=group_551
+FT                   /colour=5
+FT   misc_feature    19
+FT                   /label=group_312
+FT                   /locus_tag=group_312
+FT                   /colour=3
+FT   feature         370
+FT                   /label=essG_6
+FT                   /locus_tag=essG_6
+FT                   /colour=6
+FT   misc_feature    522
+FT                   /label=group_510
+FT                   /locus_tag=group_510
+FT                   /colour=2
+FT   misc_feature    400
+FT                   /label=group_774
+FT                   /locus_tag=group_774
+FT                   /colour=2
+FT   feature         8
+FT                   /label=kdpA
+FT                   /locus_tag=kdpA
+FT                   /colour=4
+FT   misc_feature    504
+FT                   /label=group_367
+FT                   /locus_tag=group_367
+FT                   /colour=7
+FT   misc_feature    234
+FT                   /label=group_220
+FT                   /locus_tag=group_220
+FT                   /colour=4
+FT   misc_feature    529
+FT                   /label=group_516
+FT                   /locus_tag=group_516
+FT                   /colour=2
+FT   misc_feature    389
+FT                   /label=group_704
+FT                   /locus_tag=group_704
+FT                   /colour=7
+FT   misc_feature    499
+FT                   /label=group_371
+FT                   /locus_tag=group_371
+FT                   /colour=7
+FT   misc_feature    202
+FT                   /label=group_653
+FT                   /locus_tag=group_653
+FT                   /colour=7
+FT   misc_feature    260
+FT                   /label=group_608
+FT                   /locus_tag=group_608
+FT                   /colour=3
+FT   misc_feature    368
+FT                   /label=group_665
+FT                   /locus_tag=group_665
+FT                   /colour=6
+FT   misc_feature    462
+FT                   /label=group_756
+FT                   /locus_tag=group_756
+FT                   /colour=6
+FT   misc_feature    426
+FT                   /label=group_280
+FT                   /locus_tag=group_280
+FT                   /colour=4
+FT   misc_feature    430
+FT                   /label=group_284
+FT                   /locus_tag=group_284
+FT                   /colour=4
+FT   misc_feature    509
+FT                   /label=group_498
+FT                   /locus_tag=group_498
+FT                   /colour=2
+FT   misc_feature    613
+FT                   /label=group_543
+FT                   /locus_tag=group_543
+FT                   /colour=5
+FT   feature         86
+FT                   /label=ssbA_3
+FT                   /locus_tag=ssbA_3
+FT                   /colour=4
+FT   feature         557
+FT                   /label=mecR1
+FT                   /locus_tag=mecR1
+FT                   /colour=3
+FT   misc_feature    264
+FT                   /label=group_241
+FT                   /locus_tag=group_241
+FT                   /colour=4
+FT   misc_feature    87
+FT                   /label=group_311
+FT                   /locus_tag=group_311
+FT                   /colour=5
+FT   misc_feature    441
+FT                   /label=group_292
+FT                   /locus_tag=group_292
+FT                   /colour=4
+FT   misc_feature    461
+FT                   /label=group_755
+FT                   /locus_tag=group_755
+FT                   /colour=6
+FT   feature         207
+FT                   /label=pcp
+FT                   /locus_tag=pcp
+FT                   /colour=3
+FT   misc_feature    517
+FT                   /label=group_505
+FT                   /locus_tag=group_505
+FT                   /colour=2
+FT   misc_feature    357
+FT                   /label=group_234
+FT                   /locus_tag=group_234
+FT                   /colour=5
+FT   misc_feature    23
+FT                   /label=group_683
+FT                   /locus_tag=group_683
+FT                   /colour=7
+FT   misc_feature    563
+FT                   /label=group_325
+FT                   /locus_tag=group_325
+FT                   /colour=4
+FT   misc_feature    381
+FT                   /label=group_696
+FT                   /locus_tag=group_696
+FT                   /colour=7
+FT   misc_feature    387
+FT                   /label=group_702
+FT                   /locus_tag=group_702
+FT                   /colour=7
+FT   misc_feature    455
+FT                   /label=group_414
+FT                   /locus_tag=group_414
+FT                   /colour=5
+FT   misc_feature    431
+FT                   /label=group_285
+FT                   /locus_tag=group_285
+FT                   /colour=4
+FT   feature         351
+FT                   /label=lexA_2
+FT                   /locus_tag=lexA_2
+FT                   /colour=4
+FT   misc_feature    76
+FT                   /label=group_279
+FT                   /locus_tag=group_279
+FT                   /colour=6
+FT   misc_feature    127
+FT                   /label=group_642
+FT                   /locus_tag=group_642
+FT                   /colour=3
+FT   misc_feature    623
+FT                   /label=group_533
+FT                   /locus_tag=group_533
+FT                   /colour=5
+FT   misc_feature    526
+FT                   /label=group_514
+FT                   /locus_tag=group_514
+FT                   /colour=2
+FT   misc_feature    241
+FT                   /label=group_627
+FT                   /locus_tag=group_627
+FT                   /colour=5
+FT   misc_feature    571
+FT                   /label=group_333
+FT                   /locus_tag=group_333
+FT                   /colour=4
+FT   misc_feature    510
+FT                   /label=group_499
+FT                   /locus_tag=group_499
+FT                   /colour=2
+FT   misc_feature    553
+FT                   /label=group_190
+FT                   /locus_tag=group_190
+FT                   /colour=3
+FT   misc_feature    397
+FT                   /label=group_775
+FT                   /locus_tag=group_775
+FT                   /colour=2
+FT   misc_feature    102
+FT                   /label=group_685
+FT                   /locus_tag=group_685
+FT                   /colour=2
+FT   misc_feature    585
+FT                   /label=group_347
+FT                   /locus_tag=group_347
+FT                   /colour=4
+FT   misc_feature    395
+FT                   /label=group_777
+FT                   /locus_tag=group_777
+FT                   /colour=2
+FT   feature         406
+FT                   /label=blaR1-2
+FT                   /locus_tag=blaR1-2
+FT                   /colour=2
+FT   misc_feature    171
+FT                   /label=group_575
+FT                   /locus_tag=group_575
+FT                   /colour=3
+FT   misc_feature    290
+FT                   /label=group_582
+FT                   /locus_tag=group_582
+FT                   /colour=2
+FT   misc_feature    354
+FT                   /label=group_742
+FT                   /locus_tag=group_742
+FT                   /colour=4
+FT   misc_feature    88
+FT                   /label=group_586
+FT                   /locus_tag=group_586
+FT                   /colour=6
+FT   misc_feature    502
+FT                   /label=group_3
+FT                   /locus_tag=group_3
+FT                   /colour=7
+FT   misc_feature    7
+FT                   /label=group_448
+FT                   /locus_tag=group_448
+FT                   /colour=3
+FT   misc_feature    222
+FT                   /label=group_616
+FT                   /locus_tag=group_616
+FT                   /colour=7
+FT   misc_feature    421
+FT                   /label=group_719
+FT                   /locus_tag=group_719
+FT                   /colour=3
+FT   misc_feature    401
+FT                   /label=group_773
+FT                   /locus_tag=group_773
+FT                   /colour=2
+FT   misc_feature    413
+FT                   /label=group_727
+FT                   /locus_tag=group_727
+FT                   /colour=3
+FT   misc_feature    173
+FT                   /label=group_573
+FT                   /locus_tag=group_573
+FT                   /colour=3
+FT   misc_feature    479
+FT                   /label=group_760
+FT                   /locus_tag=group_760
+FT                   /colour=6
+FT   feature         409
+FT                   /label=blaZ_2
+FT                   /locus_tag=blaZ_2
+FT                   /colour=2
+FT   misc_feature    24
+FT                   /label=group_572
+FT                   /locus_tag=group_572
+FT                   /colour=2
+FT   misc_feature    486
+FT                   /label=group_364
+FT                   /locus_tag=group_364
+FT                   /colour=7
+FT   misc_feature    575
+FT                   /label=group_337
+FT                   /locus_tag=group_337
+FT                   /colour=4
+FT   feature         117
+FT                   /label=selX
+FT                   /locus_tag=selX
+FT                   /colour=3
+FT   misc_feature    434
+FT                   /label=group_288
+FT                   /locus_tag=group_288
+FT                   /colour=4
+FT   misc_feature    258
+FT                   /label=group_610
+FT                   /locus_tag=group_610
+FT                   /colour=3
+FT   misc_feature    119
+FT                   /label=group_431
+FT                   /locus_tag=group_431
+FT                   /colour=4
+FT   misc_feature    237
+FT                   /label=group_223
+FT                   /locus_tag=group_223
+FT                   /colour=4
+FT   misc_feature    490
+FT                   /label=group_380
+FT                   /locus_tag=group_380
+FT                   /colour=7
+FT   misc_feature    25
+FT                   /label=group_567
+FT                   /locus_tag=group_567
+FT                   /colour=3
+FT   misc_feature    79
+FT                   /label=group_615
+FT                   /locus_tag=group_615
+FT                   /colour=3
+FT   misc_feature    366
+FT                   /label=group_225
+FT                   /locus_tag=group_225
+FT                   /colour=5
+FT   feature         242
+FT                   /label=ebhA
+FT                   /locus_tag=ebhA
+FT                   /colour=6
+FT   misc_feature    374
+FT                   /label=group_671
+FT                   /locus_tag=group_671
+FT                   /colour=6
+FT   misc_feature    547
+FT                   /label=group_196
+FT                   /locus_tag=group_196
+FT                   /colour=3
+FT   misc_feature    451
+FT                   /label=group_410
+FT                   /locus_tag=group_410
+FT                   /colour=5
+FT   misc_feature    560
+FT                   /label=group_322
+FT                   /locus_tag=group_322
+FT                   /colour=4
+FT   misc_feature    344
+FT                   /label=group_598
+FT                   /locus_tag=group_598
+FT                   /colour=3
+FT   misc_feature    530
+FT                   /label=group_515
+FT                   /locus_tag=group_515
+FT                   /colour=2
+FT   misc_feature    200
+FT                   /label=group_442
+FT                   /locus_tag=group_442
+FT                   /colour=6
+FT   misc_feature    595
+FT                   /label=group_521
+FT                   /locus_tag=group_521
+FT                   /colour=5
+FT   feature         98
+FT                   /label=smc_1
+FT                   /locus_tag=smc_1
+FT                   /colour=4
+FT   misc_feature    414
+FT                   /label=group_726
+FT                   /locus_tag=group_726
+FT                   /colour=3
+FT   misc_feature    276
+FT                   /label=group_216
+FT                   /locus_tag=group_216
+FT                   /colour=6
+FT   misc_feature    617
+FT                   /label=group_539
+FT                   /locus_tag=group_539
+FT                   /colour=5
+FT   misc_feature    59
+FT                   /label=group_457
+FT                   /locus_tag=group_457
+FT                   /colour=7
+FT   misc_feature    412
+FT                   /label=group_728
+FT                   /locus_tag=group_728
+FT                   /colour=3
+FT   misc_feature    81
+FT                   /label=group_393
+FT                   /locus_tag=group_393
+FT                   /colour=5
+FT   misc_feature    385
+FT                   /label=group_700
+FT                   /locus_tag=group_700
+FT                   /colour=7
+FT   misc_feature    593
+FT                   /label=group_339
+FT                   /locus_tag=group_339
+FT                   /colour=4
+FT   misc_feature    197
+FT                   /label=group_751
+FT                   /locus_tag=group_751
+FT                   /colour=5
+FT   misc_feature    182
+FT                   /label=group_661
+FT                   /locus_tag=group_661
+FT                   /colour=6
+FT   misc_feature    110
+FT                   /label=group_480
+FT                   /locus_tag=group_480
+FT                   /colour=4
+FT   feature         179
+FT                   /label=ssl5_2
+FT                   /locus_tag=ssl5_2
+FT                   /colour=5
+FT   misc_feature    292
+FT                   /label=group_579
+FT                   /locus_tag=group_579
+FT                   /colour=2
+FT   misc_feature    390
+FT                   /label=group_708
+FT                   /locus_tag=group_708
+FT                   /colour=7
+FT   misc_feature    531
+FT                   /label=group_179
+FT                   /locus_tag=group_179
+FT                   /colour=3
+FT   feature         465
+FT                   /label=cadC_1
+FT                   /locus_tag=cadC_1
+FT                   /colour=6
+FT   misc_feature    75
+FT                   /label=group_456
+FT                   /locus_tag=group_456
+FT                   /colour=5
+FT   misc_feature    506
+FT                   /label=group_495
+FT                   /locus_tag=group_495
+FT                   /colour=2
+FT   misc_feature    625
+FT                   /label=group_531
+FT                   /locus_tag=group_531
+FT                   /colour=5
+FT   misc_feature    40
+FT                   /label=group_678
+FT                   /locus_tag=group_678
+FT                   /colour=6
+FT   misc_feature    342
+FT                   /label=group_596
+FT                   /locus_tag=group_596
+FT                   /colour=3
+FT   misc_feature    568
+FT                   /label=group_330
+FT                   /locus_tag=group_330
+FT                   /colour=4
+FT   feature         416
+FT                   /label=clpP_2
+FT                   /locus_tag=clpP_2
+FT                   /colour=3
+FT   misc_feature    158
+FT                   /label=group_645
+FT                   /locus_tag=group_645
+FT                   /colour=4
+FT   misc_feature    152
+FT                   /label=group_613
+FT                   /locus_tag=group_613
+FT                   /colour=3
+FT   feature         195
+FT                   /label=agrB
+FT                   /locus_tag=agrB
+FT                   /colour=5
+FT   misc_feature    587
+FT                   /label=group_345
+FT                   /locus_tag=group_345
+FT                   /colour=4
+FT   misc_feature    403
+FT                   /label=group_771
+FT                   /locus_tag=group_771
+FT                   /colour=2
+FT   feature         72
+FT                   /label=deoC1
+FT                   /locus_tag=deoC1
+FT                   /colour=2
+FT   misc_feature    118
+FT                   /label=group_432
+FT                   /locus_tag=group_432
+FT                   /colour=4
+FT   misc_feature    283
+FT                   /label=group_276
+FT                   /locus_tag=group_276
+FT                   /colour=7
+FT   misc_feature    14
+FT                   /label=group_625
+FT                   /locus_tag=group_625
+FT                   /colour=4
+FT   misc_feature    247
+FT                   /label=group_467
+FT                   /locus_tag=group_467
+FT                   /colour=7
+FT   misc_feature    330
+FT                   /label=group_256
+FT                   /locus_tag=group_256
+FT                   /colour=2
+FT   feature         350
+FT                   /label=dinG_2
+FT                   /locus_tag=dinG_2
+FT                   /colour=4
+FT   misc_feature    257
+FT                   /label=group_611
+FT                   /locus_tag=group_611
+FT                   /colour=3
+FT   misc_feature    335
+FT                   /label=group_251
+FT                   /locus_tag=group_251
+FT                   /colour=2
+FT   misc_feature    482
+FT                   /label=group_360
+FT                   /locus_tag=group_360
+FT                   /colour=7
+FT   misc_feature    187
+FT                   /label=group_444
+FT                   /locus_tag=group_444
+FT                   /colour=2
+FT   misc_feature    378
+FT                   /label=group_672
+FT                   /locus_tag=group_672
+FT                   /colour=6
+FT   misc_feature    275
+FT                   /label=group_217
+FT                   /locus_tag=group_217
+FT                   /colour=6
+FT   misc_feature    460
+FT                   /label=group_754
+FT                   /locus_tag=group_754
+FT                   /colour=6
+FT   misc_feature    457
+FT                   /label=group_416
+FT                   /locus_tag=group_416
+FT                   /colour=5
+FT   misc_feature    347
+FT                   /label=group_748
+FT                   /locus_tag=group_748
+FT                   /colour=4
+FT   feature         10
+FT                   /label=arsC
+FT                   /locus_tag=arsC
+FT                   /colour=6
+FT   misc_feature    523
+FT                   /label=group_511
+FT                   /locus_tag=group_511
+FT                   /colour=2
+FT   misc_feature    478
+FT                   /label=group_761
+FT                   /locus_tag=group_761
+FT                   /colour=6
+FT   misc_feature    528
+FT                   /label=group_517
+FT                   /locus_tag=group_517
+FT                   /colour=2
+FT   misc_feature    480
+FT                   /label=group_759
+FT                   /locus_tag=group_759
+FT                   /colour=6
+FT   misc_feature    380
+FT                   /label=group_695
+FT                   /locus_tag=group_695
+FT                   /colour=7
+FT   misc_feature    129
+FT                   /label=group_169
+FT                   /locus_tag=group_169
+FT                   /colour=6
+FT   misc_feature    154
+FT                   /label=group_453
+FT                   /locus_tag=group_453
+FT                   /colour=4
+FT   misc_feature    130
+FT                   /label=group_246
+FT                   /locus_tag=group_246
+FT                   /colour=7
+FT   feature         472
+FT                   /label=bin3_1
+FT                   /locus_tag=bin3_1
+FT                   /colour=6
+FT   misc_feature    82
+FT                   /label=group_519
+FT                   /locus_tag=group_519
+FT                   /colour=6
+FT   misc_feature    150
+FT                   /label=group_682
+FT                   /locus_tag=group_682
+FT                   /colour=2
+FT   misc_feature    285
+FT                   /label=group_274
+FT                   /locus_tag=group_274
+FT                   /colour=7
+FT   misc_feature    183
+FT                   /label=group_319
+FT                   /locus_tag=group_319
+FT                   /colour=7
+FT   misc_feature    433
+FT                   /label=group_287
+FT                   /locus_tag=group_287
+FT                   /colour=4
+FT   misc_feature    386
+FT                   /label=group_701
+FT                   /locus_tag=group_701
+FT                   /colour=7
+FT   misc_feature    194
+FT                   /label=group_606
+FT                   /locus_tag=group_606
+FT                   /colour=4
+FT   misc_feature    456
+FT                   /label=group_415
+FT                   /locus_tag=group_415
+FT                   /colour=5
+FT   misc_feature    546
+FT                   /label=group_197
+FT                   /locus_tag=group_197
+FT                   /colour=3
+FT   misc_feature    90
+FT                   /label=group_385
+FT                   /locus_tag=group_385
+FT                   /colour=2
+FT   misc_feature    189
+FT                   /label=group_565
+FT                   /locus_tag=group_565
+FT                   /colour=3
+FT   misc_feature    379
+FT                   /label=group_694
+FT                   /locus_tag=group_694
+FT                   /colour=7
+FT   misc_feature    627
+FT                   /label=group_529
+FT                   /locus_tag=group_529
+FT                   /colour=5
+FT   misc_feature    341
+FT                   /label=group_595
+FT                   /locus_tag=group_595
+FT                   /colour=3
+FT   misc_feature    293
+FT                   /label=group_580
+FT                   /locus_tag=group_580
+FT                   /colour=2
+FT   misc_feature    422
+FT                   /label=group_718
+FT                   /locus_tag=group_718
+FT                   /colour=3
+FT   misc_feature    305
+FT                   /label=group_390
+FT                   /locus_tag=group_390
+FT                   /colour=4
+FT   misc_feature    363
+FT                   /label=group_228
+FT                   /locus_tag=group_228
+FT                   /colour=5
+FT   misc_feature    121
+FT                   /label=group_491
+FT                   /locus_tag=group_491
+FT                   /colour=5
+FT   misc_feature    353
+FT                   /label=group_741
+FT                   /locus_tag=group_741
+FT                   /colour=4
+FT   misc_feature    146
+FT                   /label=group_407
+FT                   /locus_tag=group_407
+FT                   /colour=6
+FT   misc_feature    284
+FT                   /label=group_275
+FT                   /locus_tag=group_275
+FT                   /colour=7
+FT   misc_feature    588
+FT                   /label=group_344
+FT                   /locus_tag=group_344
+FT                   /colour=4
+FT   misc_feature    38
+FT                   /label=group_430
+FT                   /locus_tag=group_430
+FT                   /colour=4
+FT   feature         314
+FT                   /label=bcrA_1
+FT                   /locus_tag=bcrA_1
+FT                   /colour=5
+FT   misc_feature    296
+FT                   /label=group_437
+FT                   /locus_tag=group_437
+FT                   /colour=3
+FT   misc_feature    177
+FT                   /label=group_259
+FT                   /locus_tag=group_259
+FT                   /colour=5
+FT   misc_feature    316
+FT                   /label=group_487
+FT                   /locus_tag=group_487
+FT                   /colour=6
+FT   feature         369
+FT                   /label=essG_5
+FT                   /locus_tag=essG_5
+FT                   /colour=6
+FT   misc_feature    89
+FT                   /label=group_622
+FT                   /locus_tag=group_622
+FT                   /colour=7
+FT   misc_feature    323
+FT                   /label=group_692
+FT                   /locus_tag=group_692
+FT                   /colour=7
+FT   misc_feature    172
+FT                   /label=group_574
+FT                   /locus_tag=group_574
+FT                   /colour=3
+FT   misc_feature    467
+FT                   /label=group_766
+FT                   /locus_tag=group_766
+FT                   /colour=6
+FT   misc_feature    125
+FT                   /label=group_735
+FT                   /locus_tag=group_735
+FT                   /colour=2
+FT   misc_feature    297
+FT                   /label=group_436
+FT                   /locus_tag=group_436
+FT                   /colour=3
+FT   misc_feature    259
+FT                   /label=group_609
+FT                   /locus_tag=group_609
+FT                   /colour=3
+FT   misc_feature    166
+FT                   /label=group_298
+FT                   /locus_tag=group_298
+FT                   /colour=7
+FT   misc_feature    201
+FT                   /label=group_654
+FT                   /locus_tag=group_654
+FT                   /colour=7
+FT   misc_feature    163
+FT                   /label=group_578
+FT                   /locus_tag=group_578
+FT                   /colour=6
+FT   misc_feature    306
+FT                   /label=group_389
+FT                   /locus_tag=group_389
+FT                   /colour=4
+FT   misc_feature    249
+FT                   /label=group_464
+FT                   /locus_tag=group_464
+FT                   /colour=7
+FT   feature         106
+FT                   /label=arcC1
+FT                   /locus_tag=arcC1
+FT                   /colour=6
+FT   misc_feature    71
+FT                   /label=group_20
+FT                   /locus_tag=group_20
+FT                   /colour=7
+FT   misc_feature    373
+FT                   /label=group_670
+FT                   /locus_tag=group_670
+FT                   /colour=6
+FT   feature         520
+FT                   /label=ssbA_1
+FT                   /locus_tag=ssbA_1
+FT                   /colour=2
+FT   misc_feature    193
+FT                   /label=group_605
+FT                   /locus_tag=group_605
+FT                   /colour=4
+FT   feature         235
+FT                   /label=repN
+FT                   /locus_tag=repN
+FT                   /colour=4
+FT   feature         254
+FT                   /label=lpl2_3
+FT                   /locus_tag=lpl2_3
+FT                   /colour=2
+FT   misc_feature    576
+FT                   /label=group_338
+FT                   /locus_tag=group_338
+FT                   /colour=4
+FT   misc_feature    277
+FT                   /label=group_215
+FT                   /locus_tag=group_215
+FT                   /colour=6
+FT   misc_feature    268
+FT                   /label=group_206
+FT                   /locus_tag=group_206
+FT                   /colour=5
+FT   misc_feature    50
+FT                   /label=group_449
+FT                   /locus_tag=group_449
+FT                   /colour=4
+FT   misc_feature    454
+FT                   /label=group_413
+FT                   /locus_tag=group_413
+FT                   /colour=5
+FT   misc_feature    566
+FT                   /label=group_328
+FT                   /locus_tag=group_328
+FT                   /colour=4
+FT   feature         405
+FT                   /label=blaI_2
+FT                   /locus_tag=blaI_2
+FT                   /colour=2
+FT   misc_feature    31
+FT                   /label=group_462
+FT                   /locus_tag=group_462
+FT                   /colour=3
+FT   misc_feature    244
+FT                   /label=group_570
+FT                   /locus_tag=group_570
+FT                   /colour=6
+FT   feature         184
+FT                   /label=ribU
+FT                   /locus_tag=ribU
+FT                   /colour=7
+FT   misc_feature    497
+FT                   /label=group_373
+FT                   /locus_tag=group_373
+FT                   /colour=7
+FT   misc_feature    279
+FT                   /label=group_213
+FT                   /locus_tag=group_213
+FT                   /colour=6
+FT   misc_feature    590
+FT                   /label=group_342
+FT                   /locus_tag=group_342
+FT                   /colour=4
+FT   misc_feature    561
+FT                   /label=group_323
+FT                   /locus_tag=group_323
+FT                   /colour=4
+FT   misc_feature    33
+FT                   /label=group_631
+FT                   /locus_tag=group_631
+FT                   /colour=5
+FT   misc_feature    610
+FT                   /label=group_546
+FT                   /locus_tag=group_546
+FT                   /colour=5
+FT   misc_feature    302
+FT                   /label=group_387
+FT                   /locus_tag=group_387
+FT                   /colour=4
+FT   feature         128
+FT                   /label=fnbA
+FT                   /locus_tag=fnbA
+FT                   /colour=6
+FT   misc_feature    133
+FT                   /label=group_738
+FT                   /locus_tag=group_738
+FT                   /colour=2
+FT   misc_feature    619
+FT                   /label=group_537
+FT                   /locus_tag=group_537
+FT                   /colour=5
+FT   feature         16
+FT                   /label=dagK
+FT                   /locus_tag=dagK
+FT                   /colour=6
+FT   feature         73
+FT                   /label=rplS
+FT                   /locus_tag=rplS
+FT                   /colour=3
+FT   misc_feature    188
+FT                   /label=group_443
+FT                   /locus_tag=group_443
+FT                   /colour=2
+FT   misc_feature    439
+FT                   /label=group_294
+FT                   /locus_tag=group_294
+FT                   /colour=4
+FT   misc_feature    628
+FT                   /label=group_528
+FT                   /locus_tag=group_528
+FT                   /colour=5
+FT   misc_feature    13
+FT                   /label=group_306
+FT                   /locus_tag=group_306
+FT                   /colour=3
+FT   misc_feature    392
+FT                   /label=group_706
+FT                   /locus_tag=group_706
+FT                   /colour=7
+FT   misc_feature    349
+FT                   /label=group_746
+FT                   /locus_tag=group_746
+FT                   /colour=4
+FT   misc_feature    274
+FT                   /label=group_218
+FT                   /locus_tag=group_218
+FT                   /colour=6
+FT   misc_feature    99
+FT                   /label=group_475
+FT                   /locus_tag=group_475
+FT                   /colour=5
+FT   feature         399
+FT                   /label=cadC_2
+FT                   /locus_tag=cadC_2
+FT                   /colour=2
+FT   misc_feature    398
+FT                   /label=group_2544
+FT                   /locus_tag=group_2544
+FT                   /colour=2
+FT   misc_feature    231
+FT                   /label=group_641
+FT                   /locus_tag=group_641
+FT                   /colour=3
+FT   feature         156
+FT                   /label=MENG
+FT                   /locus_tag=MENG
+FT                   /colour=4
+FT   feature         68
+FT                   /label=entA_3
+FT                   /locus_tag=entA_3
+FT                   /colour=4
+FT   feature         438
+FT                   /label=entC2
+FT                   /locus_tag=entC2
+FT                   /colour=4
+FT   misc_feature    444
+FT                   /label=group_423
+FT                   /locus_tag=group_423
+FT                   /colour=5
+FT   misc_feature    63
+FT                   /label=group_651
+FT                   /locus_tag=group_651
+FT                   /colour=5
+FT   misc_feature    28
+FT                   /label=group_236
+FT                   /locus_tag=group_236
+FT                   /colour=6
+FT   misc_feature    266
+FT                   /label=group_243
+FT                   /locus_tag=group_243
+FT                   /colour=4
+FT   misc_feature    70
+FT                   /label=group_257
+FT                   /locus_tag=group_257
+FT                   /colour=6
+FT   misc_feature    630
+FT                   /label=group_526
+FT                   /locus_tag=group_526
+FT                   /colour=5
+FT   misc_feature    243
+FT                   /label=group_569
+FT                   /locus_tag=group_569
+FT                   /colour=6
+FT   misc_feature    591
+FT                   /label=group_341
+FT                   /locus_tag=group_341
+FT                   /colour=4
+FT   misc_feature    211
+FT                   /label=group_633
+FT                   /locus_tag=group_633
+FT                   /colour=4
+FT   misc_feature    221
+FT                   /label=group_176
+FT                   /locus_tag=group_176
+FT                   /colour=6
+FT   misc_feature    594
+FT                   /label=group_520
+FT                   /locus_tag=group_520
+FT                   /colour=5
+FT   misc_feature    427
+FT                   /label=group_281
+FT                   /locus_tag=group_281
+FT                   /colour=4
+FT   misc_feature    532
+FT                   /label=group_180
+FT                   /locus_tag=group_180
+FT                   /colour=3
+FT   feature         256
+FT                   /label=xerD_3
+FT                   /locus_tag=xerD_3
+FT                   /colour=3
+FT   misc_feature    301
+FT                   /label=group_386
+FT                   /locus_tag=group_386
+FT                   /colour=4
+FT   misc_feature    361
+FT                   /label=group_230
+FT                   /locus_tag=group_230
+FT                   /colour=5
+FT   misc_feature    503
+FT                   /label=group_368
+FT                   /locus_tag=group_368
+FT                   /colour=7
+FT   misc_feature    442
+FT                   /label=group_291
+FT                   /locus_tag=group_291
+FT                   /colour=4
+FT   misc_feature    313
+FT                   /label=group_396
+FT                   /locus_tag=group_396
+FT                   /colour=5
+FT   misc_feature    60
+FT                   /label=group_684
+FT                   /locus_tag=group_684
+FT                   /colour=2
+FT   misc_feature    161
+FT                   /label=group_471
+FT                   /locus_tag=group_471
+FT                   /colour=5
+FT   feature         209
+FT                   /label=cna
+FT                   /locus_tag=cna
+FT                   /colour=3
+FT   misc_feature    58
+FT                   /label=group_658
+FT                   /locus_tag=group_658
+FT                   /colour=6
+FT   misc_feature    394
+FT                   /label=group_778
+FT                   /locus_tag=group_778
+FT                   /colour=2
+FT   misc_feature    223
+FT                   /label=group_617
+FT                   /locus_tag=group_617
+FT                   /colour=7
+FT   misc_feature    624
+FT                   /label=group_532
+FT                   /locus_tag=group_532
+FT                   /colour=5
+FT   misc_feature    365
+FT                   /label=group_226
+FT                   /locus_tag=group_226
+FT                   /colour=5
+FT   misc_feature    205
+FT                   /label=group_649
+FT                   /locus_tag=group_649
+FT                   /colour=2
+FT   misc_feature    612
+FT                   /label=group_544
+FT                   /locus_tag=group_544
+FT                   /colour=5
+FT   misc_feature    586
+FT                   /label=group_346
+FT                   /locus_tag=group_346
+FT                   /colour=4
+FT   misc_feature    175
+FT                   /label=group_732
+FT                   /locus_tag=group_732
+FT                   /colour=4
+FT   feature         559
+FT                   /label=hlgC_1
+FT                   /locus_tag=hlgC_1
+FT                   /colour=4
+FT   misc_feature    565
+FT                   /label=group_327
+FT                   /locus_tag=group_327
+FT                   /colour=4
+FT   misc_feature    240
+FT                   /label=group_628
+FT                   /locus_tag=group_628
+FT                   /colour=5
+FT   misc_feature    542
+FT                   /label=group_201
+FT                   /locus_tag=group_201
+FT                   /colour=3
+FT   misc_feature    299
+FT                   /label=group_434
+FT                   /locus_tag=group_434
+FT                   /colour=3
+FT   misc_feature    463
+FT                   /label=group_757
+FT                   /locus_tag=group_757
+FT                   /colour=6
+FT   misc_feature    329
+FT                   /label=group_688
+FT                   /locus_tag=group_688
+FT                   /colour=7
+FT   misc_feature    348
+FT                   /label=group_747
+FT                   /locus_tag=group_747
+FT                   /colour=4
+FT   misc_feature    548
+FT                   /label=group_195
+FT                   /locus_tag=group_195
+FT                   /colour=3
+FT   misc_feature    468
+FT                   /label=group_177
+FT                   /locus_tag=group_177
+FT                   /colour=6
+FT   misc_feature    589
+FT                   /label=group_343
+FT                   /locus_tag=group_343
+FT                   /colour=4
+FT   feature         311
+FT                   /label=nisC
+FT                   /locus_tag=nisC
+FT                   /colour=5
+FT   misc_feature    383
+FT                   /label=group_698
+FT                   /locus_tag=group_698
+FT                   /colour=7
+FT   misc_feature    423
+FT                   /label=group_717
+FT                   /locus_tag=group_717
+FT                   /colour=3
+FT   misc_feature    508
+FT                   /label=group_497
+FT                   /locus_tag=group_497
+FT                   /colour=2
+FT   misc_feature    203
+FT                   /label=group_652
+FT                   /locus_tag=group_652
+FT                   /colour=7
+FT   misc_feature    346
+FT                   /label=group_600
+FT                   /locus_tag=group_600
+FT                   /colour=3
+FT   misc_feature    495
+FT                   /label=group_375
+FT                   /locus_tag=group_375
+FT                   /colour=7
+FT   misc_feature    15
+FT                   /label=group_637
+FT                   /locus_tag=group_637
+FT                   /colour=5
+FT   feature         404
+FT                   /label=hin_2
+FT                   /locus_tag=hin_2
+FT                   /colour=2
+FT   feature         273
+FT                   /label=ywqN_1
+FT                   /locus_tag=ywqN_1
+FT                   /colour=5
+FT   misc_feature    124
+FT                   /label=group_734
+FT                   /locus_tag=group_734
+FT                   /colour=2
+FT   misc_feature    95
+FT                   /label=group_450
+FT                   /locus_tag=group_450
+FT                   /colour=7
+FT   misc_feature    453
+FT                   /label=group_412
+FT                   /locus_tag=group_412
+FT                   /colour=5
+FT   misc_feature    345
+FT                   /label=group_599
+FT                   /locus_tag=group_599
+FT                   /colour=3
+FT   misc_feature    505
+FT                   /label=group_494
+FT                   /locus_tag=group_494
+FT                   /colour=2
+FT   feature         252
+FT                   /label=lpl2_4
+FT                   /locus_tag=lpl2_4
+FT                   /colour=2
+FT   misc_feature    226
+FT                   /label=group_356
+FT                   /locus_tag=group_356
+FT                   /colour=2
+FT   misc_feature    160
+FT                   /label=group_470
+FT                   /locus_tag=group_470
+FT                   /colour=5
+FT   misc_feature    425
+FT                   /label=group_715
+FT                   /locus_tag=group_715
+FT                   /colour=3
+FT   feature         476
+FT                   /label=blaZ_1
+FT                   /locus_tag=blaZ_1
+FT                   /colour=6
+FT   misc_feature    321
+FT                   /label=group_486
+FT                   /locus_tag=group_486
+FT                   /colour=6
+FT   misc_feature    215
+FT                   /label=group_459
+FT                   /locus_tag=group_459
+FT                   /colour=5
+FT   feature         236
+FT                   /label=repE
+FT                   /locus_tag=repE
+FT                   /colour=4
+FT   misc_feature    176
+FT                   /label=group_733
+FT                   /locus_tag=group_733
+FT                   /colour=4
+FT   misc_feature    512
+FT                   /label=group_501
+FT                   /locus_tag=group_501
+FT                   /colour=2
+FT   misc_feature    538
+FT                   /label=group_205
+FT                   /locus_tag=group_205
+FT                   /colour=3
+FT   misc_feature    325
+FT                   /label=group_690
+FT                   /locus_tag=group_690
+FT                   /colour=7
+FT   misc_feature    35
+FT                   /label=group_566
+FT                   /locus_tag=group_566
+FT                   /colour=7
+FT   misc_feature    4
+FT                   /label=group_558
+FT                   /locus_tag=group_558
+FT                   /colour=6
+FT   misc_feature    232
+FT                   /label=group_640
+FT                   /locus_tag=group_640
+FT                   /colour=3
+FT   misc_feature    191
+FT                   /label=group_564
+FT                   /locus_tag=group_564
+FT                   /colour=3
+FT   misc_feature    569
+FT                   /label=group_331
+FT                   /locus_tag=group_331
+FT                   /colour=4
+FT   misc_feature    549
+FT                   /label=group_194
+FT                   /locus_tag=group_194
+FT                   /colour=3
+FT   misc_feature    428
+FT                   /label=group_282
+FT                   /locus_tag=group_282
+FT                   /colour=4
+FT   misc_feature    384
+FT                   /label=group_699
+FT                   /locus_tag=group_699
+FT                   /colour=7
+FT   misc_feature    411
+FT                   /label=group_729
+FT                   /locus_tag=group_729
+FT                   /colour=3
+FT   misc_feature    356
+FT                   /label=group_235
+FT                   /locus_tag=group_235
+FT                   /colour=5
+FT   misc_feature    263
+FT                   /label=group_240
+FT                   /locus_tag=group_240
+FT                   /colour=4
+FT   misc_feature    435
+FT                   /label=group_289
+FT                   /locus_tag=group_289
+FT                   /colour=4
+FT   feature         339
+FT                   /label=btuD_5
+FT                   /locus_tag=btuD_5
+FT                   /colour=3
+FT   misc_feature    371
+FT                   /label=group_668
+FT                   /locus_tag=group_668
+FT                   /colour=6
+FT   misc_feature    47
+FT                   /label=group_305
+FT                   /locus_tag=group_305
+FT                   /colour=7
+FT   misc_feature    629
+FT                   /label=group_527
+FT                   /locus_tag=group_527
+FT                   /colour=5
+FT   misc_feature    372
+FT                   /label=group_669
+FT                   /locus_tag=group_669
+FT                   /colour=6
+FT   misc_feature    298
+FT                   /label=group_435
+FT                   /locus_tag=group_435
+FT                   /colour=3
+FT   misc_feature    443
+FT                   /label=group_424
+FT                   /locus_tag=group_424
+FT                   /colour=5
+FT   misc_feature    112
+FT                   /label=group_710
+FT                   /locus_tag=group_710
+FT                   /colour=6
+FT   misc_feature    492
+FT                   /label=group_378
+FT                   /locus_tag=group_378
+FT                   /colour=7
+FT   misc_feature    120
+FT                   /label=group_492
+FT                   /locus_tag=group_492
+FT                   /colour=5
+FT   misc_feature    198
+FT                   /label=group_440
+FT                   /locus_tag=group_440
+FT                   /colour=6
+FT   misc_feature    464
+FT                   /label=group_2543
+FT                   /locus_tag=group_2543
+FT                   /colour=6
+FT   misc_feature    519
+FT                   /label=group_507
+FT                   /locus_tag=group_507
+FT                   /colour=2
+FT   feature         474
+FT                   /label=blaI_1
+FT                   /locus_tag=blaI_1
+FT                   /colour=6
+FT   misc_feature    286
+FT                   /label=group_273
+FT                   /locus_tag=group_273
+FT                   /colour=7
+FT   misc_feature    597
+FT                   /label=group_523
+FT                   /locus_tag=group_523
+FT                   /colour=5
+FT   misc_feature    164
+FT                   /label=group_577
+FT                   /locus_tag=group_577
+FT                   /colour=6
+FT   misc_feature    153
+FT                   /label=group_614
+FT                   /locus_tag=group_614
+FT                   /colour=3
+FT   misc_feature    419
+FT                   /label=group_721
+FT                   /locus_tag=group_721
+FT                   /colour=3
+FT   misc_feature    139
+FT                   /label=group_402
+FT                   /locus_tag=group_402
+FT                   /colour=6
+FT   misc_feature    484
+FT                   /label=group_362
+FT                   /locus_tag=group_362
+FT                   /colour=7
+FT   misc_feature    515
+FT                   /label=group_504
+FT                   /locus_tag=group_504
+FT                   /colour=2
+FT   misc_feature    334
+FT                   /label=group_252
+FT                   /locus_tag=group_252
+FT                   /colour=2
+FT   misc_feature    18
+FT                   /label=group_588
+FT                   /locus_tag=group_588
+FT                   /colour=2
+FT   misc_feature    246
+FT                   /label=group_468
+FT                   /locus_tag=group_468
+FT                   /colour=7
+FT   misc_feature    598
+FT                   /label=group_524
+FT                   /locus_tag=group_524
+FT                   /colour=5
+FT   misc_feature    253
+FT                   /label=group_265
+FT                   /locus_tag=group_265
+FT                   /colour=2
+FT   feature         267
+FT                   /label=essG_9
+FT                   /locus_tag=essG_9
+FT                   /colour=4
+FT   feature         358
+FT                   /label=natA
+FT                   /locus_tag=natA
+FT                   /colour=5
+FT   misc_feature    78
+FT                   /label=group_247
+FT                   /locus_tag=group_247
+FT                   /colour=2
+FT   misc_feature    418
+FT                   /label=group_722
+FT                   /locus_tag=group_722
+FT                   /colour=3
+FT   misc_feature    180
+FT                   /label=group_659
+FT                   /locus_tag=group_659
+FT                   /colour=6
+FT   misc_feature    147
+FT                   /label=group_406
+FT                   /locus_tag=group_406
+FT                   /colour=6
+FT   feature         537
+FT                   /label=mecA_1
+FT                   /locus_tag=mecA_1
+FT                   /colour=3
+FT   misc_feature    227
+FT                   /label=group_357
+FT                   /locus_tag=group_357
+FT                   /colour=2
+FT   misc_feature    167
+FT                   /label=group_299
+FT                   /locus_tag=group_299
+FT                   /colour=7
+FT   misc_feature    382
+FT                   /label=group_697
+FT                   /locus_tag=group_697
+FT                   /colour=7
+FT   misc_feature    62
+FT                   /label=group_310
+FT                   /locus_tag=group_310
+FT                   /colour=4
+FT   feature         475
+FT                   /label=blaR1
+FT                   /locus_tag=blaR1
+FT                   /colour=6
+FT   misc_feature    43
+FT                   /label=group_315
+FT                   /locus_tag=group_315
+FT                   /colour=3
+FT   misc_feature    485
+FT                   /label=group_363
+FT                   /locus_tag=group_363
+FT                   /colour=7
+FT   misc_feature    105
+FT                   /label=group_314
+FT                   /locus_tag=group_314
+FT                   /colour=5
+FT   misc_feature    524
+FT                   /label=group_512
+FT                   /locus_tag=group_512
+FT                   /colour=2
+FT   misc_feature    80
+FT                   /label=group_300
+FT                   /locus_tag=group_300
+FT                   /colour=4
+FT   misc_feature    518
+FT                   /label=group_506
+FT                   /locus_tag=group_506
+FT                   /colour=2
+FT   misc_feature    228
+FT                   /label=group_358
+FT                   /locus_tag=group_358
+FT                   /colour=2
+FT   misc_feature    391
+FT                   /label=group_707
+FT                   /locus_tag=group_707
+FT                   /colour=7
+FT   misc_feature    332
+FT                   /label=group_254
+FT                   /locus_tag=group_254
+FT                   /colour=2
+FT   feature         491
+FT                   /label=xerC_2
+FT                   /locus_tag=xerC_2
+FT                   /colour=7
+FT   feature         408
+FT                   /label=bin3_2
+FT                   /locus_tag=bin3_2
+FT                   /colour=2
+FT   misc_feature    525
+FT                   /label=group_513
+FT                   /locus_tag=group_513
+FT                   /colour=2
+FT   feature         437
+FT                   /label=entA_1
+FT                   /locus_tag=entA_1
+FT                   /colour=4
+FT   misc_feature    319
+FT                   /label=group_484
+FT                   /locus_tag=group_484
+FT                   /colour=6
+FT   misc_feature    449
+FT                   /label=group_408
+FT                   /locus_tag=group_408
+FT                   /colour=5
+FT   misc_feature    555
+FT                   /label=group_188
+FT                   /locus_tag=group_188
+FT                   /colour=3
+FT   misc_feature    142
+FT                   /label=group_426
+FT                   /locus_tag=group_426
+FT                   /colour=4
+FT   misc_feature    604
+FT                   /label=group_552
+FT                   /locus_tag=group_552
+FT                   /colour=5
+FT   misc_feature    493
+FT                   /label=group_377
+FT                   /locus_tag=group_377
+FT                   /colour=7
+FT   misc_feature    581
+FT                   /label=group_351
+FT                   /locus_tag=group_351
+FT                   /colour=4
+FT   misc_feature    64
+FT                   /label=group_7
+FT                   /locus_tag=group_7
+FT                   /colour=6
+FT   misc_feature    340
+FT                   /label=group_594
+FT                   /locus_tag=group_594
+FT                   /colour=3
+FT   misc_feature    214
+FT                   /label=group_458
+FT                   /locus_tag=group_458
+FT                   /colour=5
+FT   misc_feature    331
+FT                   /label=group_255
+FT                   /locus_tag=group_255
+FT                   /colour=2
+FT   misc_feature    396
+FT                   /label=group_776
+FT                   /locus_tag=group_776
+FT                   /colour=2
+FT   misc_feature    192
+FT                   /label=group_604
+FT                   /locus_tag=group_604
+FT                   /colour=4
+FT   misc_feature    375
+FT                   /label=group_675
+FT                   /locus_tag=group_675
+FT                   /colour=6
+FT   misc_feature    162
+FT                   /label=group_576
+FT                   /locus_tag=group_576
+FT                   /colour=6
+FT   misc_feature    355
+FT                   /label=group_743
+FT                   /locus_tag=group_743
+FT                   /colour=4
+FT   misc_feature    572
+FT                   /label=group_334
+FT                   /locus_tag=group_334
+FT                   /colour=4
+FT   misc_feature    445
+FT                   /label=group_422
+FT                   /locus_tag=group_422
+FT                   /colour=5
+FT   misc_feature    459
+FT                   /label=group_418
+FT                   /locus_tag=group_418
+FT                   /colour=5
+FT   misc_feature    52
+FT                   /label=group_384
+FT                   /locus_tag=group_384
+FT                   /colour=6
+FT   feature         85
+FT                   /label=argR_1
+FT                   /locus_tag=argR_1
+FT                   /colour=3
+FT   misc_feature    6
+FT                   /label=group_429
+FT                   /locus_tag=group_429
+FT                   /colour=2
+FT   misc_feature    101
+FT                   /label=group_219
+FT                   /locus_tag=group_219
+FT                   /colour=7
+FT   misc_feature    626
+FT                   /label=group_530
+FT                   /locus_tag=group_530
+FT                   /colour=5
+FT   misc_feature    534
+FT                   /label=group_182
+FT                   /locus_tag=group_182
+FT                   /colour=3
+FT   misc_feature    599
+FT                   /label=group_557
+FT                   /locus_tag=group_557
+FT                   /colour=5
+FT   misc_feature    307
+FT                   /label=group_388
+FT                   /locus_tag=group_388
+FT                   /colour=4
+FT   misc_feature    507
+FT                   /label=group_496
+FT                   /locus_tag=group_496
+FT                   /colour=2
+FT   misc_feature    281
+FT                   /label=group_272
+FT                   /locus_tag=group_272
+FT                   /colour=7
+FT   misc_feature    603
+FT                   /label=group_553
+FT                   /locus_tag=group_553
+FT                   /colour=5
+FT   misc_feature    12
+FT                   /label=group_404
+FT                   /locus_tag=group_404
+FT                   /colour=2
+FT   misc_feature    601
+FT                   /label=group_555
+FT                   /locus_tag=group_555
+FT                   /colour=5
+FT   misc_feature    513
+FT                   /label=group_502
+FT                   /locus_tag=group_502
+FT                   /colour=2
+FT   misc_feature    303
+FT                   /label=group_392
+FT                   /locus_tag=group_392
+FT                   /colour=4
+FT   misc_feature    44
+FT                   /label=group_278
+FT                   /locus_tag=group_278
+FT                   /colour=4
+FT   feature         322
+FT                   /label=lpl2_6
+FT                   /locus_tag=lpl2_6
+FT                   /colour=7
+FT   misc_feature    143
+FT                   /label=group_425
+FT                   /locus_tag=group_425
+FT                   /colour=4
+FT   feature         48
+FT                   /label=pbpB
+FT                   /locus_tag=pbpB
+FT                   /colour=2
+FT   feature         364
+FT                   /label=yknY
+FT                   /locus_tag=yknY
+FT                   /colour=5
+FT   misc_feature    190
+FT                   /label=group_563
+FT                   /locus_tag=group_563
+FT                   /colour=3
+FT   misc_feature    450
+FT                   /label=group_409
+FT                   /locus_tag=group_409
+FT                   /colour=5
+FT   feature         69
+FT                   /colour=5
+FT   feature         42
+FT                   /colour=2
+FT   feature         142..143
+FT                   /colour=4
+FT   feature         218..221
+FT                   /colour=6
+FT   feature         168..170
+FT                   /colour=2
+FT   feature         92
+FT                   /colour=4
+FT   feature         482..504
+FT                   /colour=7
+FT   feature         83
+FT                   /colour=7
+FT   feature         558..593
+FT                   /colour=4
+FT   feature         70
+FT                   /colour=6
+FT   feature         88
+FT                   /colour=6
+FT   feature         256..261
+FT                   /colour=3
+FT   feature         268..273
+FT                   /colour=5
+FT   feature         52
+FT                   /colour=6
+FT   feature         32
+FT                   /colour=4
+FT   feature         114..115
+FT                   /colour=2
+FT   feature         183..185
+FT                   /colour=7
+FT   feature         394..409
+FT                   /colour=2
+FT   feature         24
+FT                   /colour=2
+FT   feature         410..425
+FT                   /colour=3
+FT   feature         234..237
+FT                   /colour=4
+FT   feature         11
+FT                   /colour=7
+FT   feature         262..267
+FT                   /colour=4
+FT   feature         152..153
+FT                   /colour=3
+FT   feature         214..217
+FT                   /colour=5
+FT   feature         27
+FT                   /colour=5
+FT   feature         74
+FT                   /colour=4
+FT   feature         226..229
+FT                   /colour=2
+FT   feature         148..149
+FT                   /colour=7
+FT   feature         51
+FT                   /colour=5
+FT   feature         79
+FT                   /colour=3
+FT   feature         97
+FT                   /colour=3
+FT   feature         109
+FT                   /colour=3
+FT   feature         230..233
+FT                   /colour=3
+FT   feature         67
+FT                   /colour=3
+FT   feature         9
+FT                   /colour=5
+FT   feature         17
+FT                   /colour=7
+FT   feature         39
+FT                   /colour=5
+FT   feature         104
+FT                   /colour=4
+FT   feature         126..127
+FT                   /colour=3
+FT   feature         87
+FT                   /colour=5
+FT   feature         136..137
+FT                   /colour=5
+FT   feature         144..145
+FT                   /colour=5
+FT   feature         505..530
+FT                   /colour=2
+FT   feature         64
+FT                   /colour=6
+FT   feature         322..329
+FT                   /colour=7
+FT   feature         45
+FT                   /colour=5
+FT   feature         82
+FT                   /colour=6
+FT   feature         105
+FT                   /colour=5
+FT   feature         14
+FT                   /colour=4
+FT   feature         120..121
+FT                   /colour=5
+FT   feature         171..173
+FT                   /colour=3
+FT   feature         251..255
+FT                   /colour=2
+FT   feature         28
+FT                   /colour=6
+FT   feature         132..133
+FT                   /colour=2
+FT   feature         86
+FT                   /colour=4
+FT   feature         90
+FT                   /colour=2
+FT   feature         71
+FT                   /colour=7
+FT   feature         165..167
+FT                   /colour=7
+FT   feature         7
+FT                   /colour=3
+FT   feature         77
+FT                   /colour=7
+FT   feature         34
+FT                   /colour=6
+FT   feature         108
+FT                   /colour=2
+FT   feature         210..213
+FT                   /colour=4
+FT   feature         106
+FT                   /colour=6
+FT   feature         154..155
+FT                   /colour=4
+FT   feature         111
+FT                   /colour=5
+FT   feature         379..393
+FT                   /colour=7
+FT   feature         198..200
+FT                   /colour=6
+FT   feature         5
+FT                   /colour=7
+FT   feature         78
+FT                   /colour=2
+FT   feature         189..191
+FT                   /colour=3
+FT   feature         29
+FT                   /colour=7
+FT   feature         204..206
+FT                   /colour=2
+FT   feature         280..286
+FT                   /colour=7
+FT   feature         44
+FT                   /colour=4
+FT   feature         58
+FT                   /colour=6
+FT   feature         8
+FT                   /colour=4
+FT   feature         47
+FT                   /colour=7
+FT   feature         4
+FT                   /colour=6
+FT   feature         73
+FT                   /colour=3
+FT   feature         287..293
+FT                   /colour=2
+FT   feature         62
+FT                   /colour=4
+FT   feature         1
+FT                   /colour=3
+FT   feature         13
+FT                   /colour=3
+FT   feature         35
+FT                   /colour=7
+FT   feature         162..164
+FT                   /colour=6
+FT   feature         30
+FT                   /colour=2
+FT   feature         426..442
+FT                   /colour=4
+FT   feature         140..141
+FT                   /colour=3
+FT   feature         338..346
+FT                   /colour=3
+FT   feature         150..151
+FT                   /colour=2
+FT   feature         75
+FT                   /colour=5
+FT   feature         85
+FT                   /colour=3
+FT   feature         180..182
+FT                   /colour=6
+FT   feature         101
+FT                   /colour=7
+FT   feature         49
+FT                   /colour=3
+FT   feature         207..209
+FT                   /colour=3
+FT   feature         68
+FT                   /colour=4
+FT   feature         56
+FT                   /colour=4
+FT   feature         242..245
+FT                   /colour=6
+FT   feature         59
+FT                   /colour=7
+FT   feature         36
+FT                   /colour=2
+FT   feature         26
+FT                   /colour=4
+FT   feature         315..321
+FT                   /colour=6
+FT   feature         195..197
+FT                   /colour=5
+FT   feature         19
+FT                   /colour=3
+FT   feature         20
+FT                   /colour=4
+FT   feature         57
+FT                   /colour=5
+FT   feature         55
+FT                   /colour=3
+FT   feature         138..139
+FT                   /colour=6
+FT   feature         65
+FT                   /colour=7
+FT   feature         38
+FT                   /colour=4
+FT   feature         294..300
+FT                   /colour=3
+FT   feature         63
+FT                   /colour=5
+FT   feature         192..194
+FT                   /colour=4
+FT   feature         356..366
+FT                   /colour=5
+FT   feature         23
+FT                   /colour=7
+FT   feature         6
+FT                   /colour=2
+FT   feature         50
+FT                   /colour=4
+FT   feature         37
+FT                   /colour=3
+FT   feature         91
+FT                   /colour=3
+FT   feature         443..459
+FT                   /colour=5
+FT   feature         21
+FT                   /colour=5
+FT   feature         110
+FT                   /colour=4
+FT   feature         12
+FT                   /colour=2
+FT   feature         246..250
+FT                   /colour=7
+FT   feature         40
+FT                   /colour=6
+FT   feature         41
+FT                   /colour=7
+FT   feature         177..179
+FT                   /colour=5
+FT   feature         93
+FT                   /colour=5
+FT   feature         100
+FT                   /colour=6
+FT   feature         222..225
+FT                   /colour=7
+FT   feature         531..557
+FT                   /colour=3
+FT   feature         330..337
+FT                   /colour=2
+FT   feature         201..203
+FT                   /colour=7
+FT   feature         2
+FT                   /colour=4
+FT   feature         84
+FT                   /colour=2
+FT   feature         98
+FT                   /colour=4
+FT   feature         159..161
+FT                   /colour=5
+FT   feature         128..129
+FT                   /colour=6
+FT   feature         25
+FT                   /colour=3
+FT   feature         80
+FT                   /colour=4
+FT   feature         103
+FT                   /colour=3
+FT   feature         10
+FT                   /colour=6
+FT   feature         46
+FT                   /colour=6
+FT   feature         3
+FT                   /colour=5
+FT   feature         15
+FT                   /colour=5
+FT   feature         96
+FT                   /colour=2
+FT   feature         43
+FT                   /colour=3
+FT   feature         31
+FT                   /colour=3
+FT   feature         53
+FT                   /colour=7
+FT   feature         118..119
+FT                   /colour=4
+FT   feature         238..241
+FT                   /colour=5
+FT   feature         146..147
+FT                   /colour=6
+FT   feature         134..135
+FT                   /colour=3
+FT   feature         594..631
+FT                   /colour=5
+FT   feature         186..188
+FT                   /colour=2
+FT   feature         102
+FT                   /colour=2
+FT   feature         60
+FT                   /colour=2
+FT   feature         308..314
+FT                   /colour=5
+FT   feature         130..131
+FT                   /colour=7
+FT   feature         54
+FT                   /colour=2
+FT   feature         99
+FT                   /colour=5
+FT   feature         301..307
+FT                   /colour=4
+FT   feature         367..378
+FT                   /colour=6
+FT   feature         174..176
+FT                   /colour=4
+FT   feature         116..117
+FT                   /colour=3
+FT   feature         76
+FT                   /colour=6
+FT   feature         66
+FT                   /colour=2
+FT   feature         89
+FT                   /colour=7
+FT   feature         112..113
+FT                   /colour=6
+FT   feature         95
+FT                   /colour=7
+FT   feature         107
+FT                   /colour=7
+FT   feature         81
+FT                   /colour=5
+FT   feature         274..279
+FT                   /colour=6
+FT   feature         22
+FT                   /colour=6
+FT   feature         18
+FT                   /colour=2
+FT   feature         72
+FT                   /colour=2
+FT   feature         124..125
+FT                   /colour=2
+FT   feature         122..123
+FT                   /colour=7
+FT   feature         460..481
+FT                   /colour=6
+FT   feature         48
+FT                   /colour=2
+FT   feature         156..158
+FT                   /colour=4
+FT   feature         94
+FT                   /colour=6
+FT   feature         347..355
+FT                   /colour=4
+FT   feature         33
+FT                   /colour=5
+FT   feature         16
+FT                   /colour=6
+FT   feature         61
+FT                   /colour=3
+XX
+SQ   Sequence 1234 BP; 789 A; 1717 C; 1693 G; 691 T; 0 other;
+//
