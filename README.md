@@ -1,10 +1,10 @@
 # ESKAPE_Project
 
 ## Title
-**Comparative Genomic Analysis of Antibiotic Resistance Gene Neighborhoods in ESKAPE Pathogens Reveals High-Risk Clusters and Mobile Genetic Element Associations**
+**Resistome Plasticity and High-Risk Genes in ESKAPE Pathogens Revealed by Comparative Genomics**
 
 ## Description
-This repository contains the full analysis pipeline and results for a comparative genomic study of ESKAPE pathogens, focusing on antibiotic resistance gene (ARG) neighborhoods and their association with mobile genetic elements (MGEs). The study uses tools like Prokka, AMRFinderPlus, and Roary.
+This repository contains the full analysis pipeline and results for a comparative genomic study of ESKAPE pathogens, focusing on antibiotic resistance gene (ARG) and their association with mobile genetic elements (MGEs). The study uses tools like Prokka, AMRFinderPlus, and Roary.
 
 **Note:** The manuscript based on this work is currently being finalized and has not yet been submitted. This repository is made public for transparency and reproducibility.
 
